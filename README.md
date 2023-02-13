@@ -65,8 +65,8 @@ CS @ CSULB <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday 😈](https://dev.to/ben/meme-monday-4c5o)
 - [Meme Monday 🧢](https://dev.to/ben/meme-monday-7b3)
 - [Welcome @devintelbyte, the 1 millionth registered DEV!](https://dev.to/devteam/welcome-devintelbyte-the-1-millionth-registered-dev-381i)
 - [Meme Monday 👁](https://dev.to/ben/meme-monday-5h2e)
-- [Meme Monday 🫵](https://dev.to/ben/meme-monday-40d1)
 <!-- BLOG-POST-LIST:END -->
