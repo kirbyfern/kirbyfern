@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Which tools and resources do you suggest for folks who are new to programming?](https://dev.to/codenewbieteam/which-tools-and-resources-do-you-suggest-for-folks-who-are-new-to-programming-4pd3)
 - [New Programmers, What Challenges Are You Facing?](https://dev.to/codenewbieteam/new-programmers-what-challenges-are-you-facing-45k9)
 - [Meme Monday 🤓](https://dev.to/ben/meme-monday-g66)
 - [Some new features to look forward to on DEV](https://dev.to/devteam/some-new-features-to-look-forward-to-on-dev-5jk)
-- [The CodeNewbie Podcast is Back! S23:E1 Psychological Safety in Tech with Taylor Poindexter](https://dev.to/codenewbieteam/the-codenewbie-podcast-is-back-s23e1-psychological-safety-in-tech-with-taylor-poindexter-1337)
 <!-- BLOG-POST-LIST:END -->
