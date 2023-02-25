@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What Are Some Hobbies That Are Beneficial to Coders and Developers?](https://dev.to/codenewbieteam/what-are-some-hobbies-that-are-beneficial-to-coders-and-developers-15n5)
 - [Which Programming Language Did You Choose to Start with, and Why Did You Choose It?](https://dev.to/codenewbieteam/which-programming-language-did-you-start-with-and-why-did-you-choose-it-5c28)
 - [Which tools and resources do you suggest for folks who are new to programming?](https://dev.to/codenewbieteam/which-tools-and-resources-do-you-suggest-for-folks-who-are-new-to-programming-4pd3)
 - [New Programmers, What Challenges Are You Facing?](https://dev.to/codenewbieteam/new-programmers-what-challenges-are-you-facing-45k9)
-- [Meme Monday 🤓](https://dev.to/ben/meme-monday-g66)
 <!-- BLOG-POST-LIST:END -->
