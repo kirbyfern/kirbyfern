@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [CodeNewbie Podcast, S23:E4 — Saying Yes to Opportunities](https://dev.to/codenewbieteam/codenewbie-podcast-s23e4-saying-yes-to-opportunities-15ik)
 - [OpenAI announces ChatGPT and Whisper APIs](https://dev.to/ben/openai-announces-chatgpt-and-whisper-apis-304i)
 - [What Non-Technical Skills Do You Need for a Successful Career in Tech?](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
 - [What Is the Most Challenging Project You&#39;ve Worked on So Far, and What Did You Learn from It?](https://dev.to/codenewbieteam/what-is-the-most-challenging-project-youve-worked-on-so-far-and-what-did-you-learn-from-it-299d)
-- [Meme Monday 🦄](https://dev.to/ben/meme-monday-59gk)
 <!-- BLOG-POST-LIST:END -->
