@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What Are Some Common Mistakes That Beginners Make When Learning to Code, and How Can You Avoid Them?](https://dev.to/codenewbieteam/what-are-some-common-mistakes-that-beginners-make-when-learning-to-code-and-how-can-you-avoid-them-35oi)
 - [CodeNewbie Podcast, S23:E4 — Saying Yes to Opportunities](https://dev.to/codenewbieteam/codenewbie-podcast-s23e4-saying-yes-to-opportunities-15ik)
 - [OpenAI announces ChatGPT and Whisper APIs](https://dev.to/ben/openai-announces-chatgpt-and-whisper-apis-304i)
 - [What Non-Technical Skills Do You Need for a Successful Career in Tech?](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
-- [What Is the Most Challenging Project You&#39;ve Worked on So Far, and What Did You Learn from It?](https://dev.to/codenewbieteam/what-is-the-most-challenging-project-youve-worked-on-so-far-and-what-did-you-learn-from-it-299d)
 <!-- BLOG-POST-LIST:END -->
