@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What Do You Wish You’d Known When You First Started Programming?](https://dev.to/codenewbieteam/what-do-you-wish-youd-known-when-you-first-started-programming-1p25)
 - [What Are Some Common Mistakes That Beginners Make When Learning to Code, and How Can You Avoid Them?](https://dev.to/codenewbieteam/what-are-some-common-mistakes-that-beginners-make-when-learning-to-code-and-how-can-you-avoid-them-35oi)
 - [CodeNewbie Podcast, S23:E4 — Saying Yes to Opportunities](https://dev.to/codenewbieteam/codenewbie-podcast-s23e4-saying-yes-to-opportunities-15ik)
 - [OpenAI announces ChatGPT and Whisper APIs](https://dev.to/ben/openai-announces-chatgpt-and-whisper-apis-304i)
-- [What Non-Technical Skills Do You Need for a Successful Career in Tech?](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
 <!-- BLOG-POST-LIST:END -->
