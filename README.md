@@ -19,6 +19,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [How Can Coding Make a Positive Impact on Society?](https://dev.to/codenewbieteam/how-can-coding-make-a-positive-impact-on-society-na8)
 - [Meme Monday 😝](https://dev.to/ben/meme-monday-193h)
-- [Hobbyist Coders: Why Do You Code?](https://dev.to/codenewbieteam/hobbyist-coders-why-do-you-code-457b)
 - [What Difficulties Do You Expect to Encounter As You Pursue a Career in Coding?](https://dev.to/codenewbieteam/what-difficulties-do-you-expect-to-encounter-as-you-pursue-a-career-in-coding-2o1n)
+- [Hobbyist Coders: Why Do You Code?](https://dev.to/codenewbieteam/hobbyist-coders-why-do-you-code-457b)
 <!-- BLOG-POST-LIST:END -->
