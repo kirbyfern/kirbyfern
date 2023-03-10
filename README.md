@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Share Your Love for Coding with Friends and Family?](https://dev.to/codenewbieteam/how-do-you-share-your-love-for-coding-with-friends-and-family-1h3i)
 - [What Motivates You to Pursue A Career in Coding?](https://dev.to/codenewbieteam/what-motivates-you-to-pursue-a-career-in-coding-2l2a)
 - [The CodeNewbie Podcast, S23:E4: A/B Testing](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e4-ab-testing-1n96)
 - [Let&#39;s keep moving the goal posts](https://dev.to/ben/lets-keep-moving-the-goal-posts-3jjl)
-- [How Can Coding Make a Positive Impact on Society?](https://dev.to/codenewbieteam/how-can-coding-make-a-positive-impact-on-society-na8)
 <!-- BLOG-POST-LIST:END -->
