@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
 - [Emerging Technologies I Can&#39;t Wait to Work With!](https://dev.to/codenewbieteam/emerging-technologies-i-cant-wait-to-work-with-2cpf)
 - [Syntax Error: What Obstacles Are You Facing As A New Developer?](https://dev.to/codenewbieteam/syntax-error-what-obstacles-are-you-facing-as-a-new-developer-3l71)
 - [Meme Monday 🧵](https://dev.to/ben/meme-monday-54i0)
-- [How Do You Stay Motivated When Facing Programming Problems?](https://dev.to/codenewbieteam/how-do-you-stay-motivated-when-facing-programming-problems-580l)
 <!-- BLOG-POST-LIST:END -->
