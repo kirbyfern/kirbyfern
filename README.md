@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Emerging Technologies I Can&#39;t Wait to Work With!](https://dev.to/codenewbieteam/emerging-technologies-i-cant-wait-to-work-with-2cpf)
 - [Syntax Error: What Obstacles Are You Facing As A New Developer?](https://dev.to/codenewbieteam/syntax-error-what-obstacles-are-you-facing-as-a-new-developer-3l71)
 - [Meme Monday 🧵](https://dev.to/ben/meme-monday-54i0)
 - [How Do You Stay Motivated When Facing Programming Problems?](https://dev.to/codenewbieteam/how-do-you-stay-motivated-when-facing-programming-problems-580l)
-- [How Can Coders Ensure Ethical Practices in Their Work?](https://dev.to/codenewbieteam/how-can-coders-ensure-ethical-practices-in-their-work-2ao0)
 <!-- BLOG-POST-LIST:END -->
