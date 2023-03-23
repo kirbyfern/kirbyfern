@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What Was Your First Job in the Tech Industry?](https://dev.to/codenewbieteam/what-was-your-first-job-in-the-tech-industry-208m)
 - [The CodeNewbie Podcast, S23:E6: From Site Reliability Engineer to Principal Software Engineer](https://dev.to/codenewbieteam/the-codenewbie-podcast-s23e6-from-site-reliability-engineer-to-principal-software-engineer-g36)
 - [Emerging Technologies I Can&#39;t Wait to Work With!](https://dev.to/codenewbieteam/emerging-technologies-i-cant-wait-to-work-with-2cpf)
 - [Syntax Error: What Obstacles Are You Facing As A New Developer?](https://dev.to/codenewbieteam/syntax-error-what-obstacles-are-you-facing-as-a-new-developer-3l71)
-- [Meme Monday 🧵](https://dev.to/ben/meme-monday-54i0)
 <!-- BLOG-POST-LIST:END -->
