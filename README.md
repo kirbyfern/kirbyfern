@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Good Morning, World! ☕️ What’s Your Routine?](https://dev.to/codenewbieteam/good-morning-world-whats-your-routine-2cgb)
 - [Got Any Podcast Recs? We Do!](https://dev.to/codenewbieteam/10-great-tech-related-podcasts-152d)
 - [The Weekend Coder: Falling In Love with AI](https://dev.to/codenewbieteam/the-weekend-coder-falling-in-love-with-ai-40hb)
 - [How Do You Prioritize UX in Software Development?](https://dev.to/codenewbieteam/how-do-you-prioritize-ux-in-software-development-ac7)
-- [What Was Your First Job in the Tech Industry?](https://dev.to/codenewbieteam/what-was-your-first-job-in-the-tech-industry-208m)
 <!-- BLOG-POST-LIST:END -->
