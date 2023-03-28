@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Which Social Media Platforms Do You Rely on the Most?](https://dev.to/codenewbieteam/which-social-media-platforms-do-you-rely-on-the-most-gbl)
 - [Meme Monday 🥸](https://dev.to/ben/meme-monday-cbo)
 - [Good Morning, World! ☕️ What’s Your Routine?](https://dev.to/codenewbieteam/good-morning-world-whats-your-routine-2cgb)
 - [Got Any Podcast Recs? We Do!](https://dev.to/codenewbieteam/10-great-tech-related-podcasts-152d)
-- [The Weekend Coder: Falling In Love with AI](https://dev.to/codenewbieteam/the-weekend-coder-falling-in-love-with-ai-40hb)
 <!-- BLOG-POST-LIST:END -->
