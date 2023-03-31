@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Top March Daily Discussions. And the Theme is…Nostalgia in Tech!](https://dev.to/codenewbieteam/top-march-daily-discussions-and-the-theme-isnostalgia-in-tech-2cep)
 - [How Do You Handle Legacy Code When Starting a New Project?](https://dev.to/codenewbieteam/how-do-you-handle-legacy-code-when-starting-a-new-project-2ml3)
 - [What Is Your Greatest &lpar;Unique&rpar; Strength as a Developer?](https://dev.to/codenewbieteam/what-is-your-greatest-unique-strength-as-a-developer-2nnd)
 - [What new productivity tools have you discovered lately?](https://dev.to/ben/what-new-productivity-tools-have-you-discovered-lately-4401)
-- [Which Social Media Platforms Do You Rely on the Most?](https://dev.to/codenewbieteam/which-social-media-platforms-do-you-rely-on-the-most-gbl)
 <!-- BLOG-POST-LIST:END -->
