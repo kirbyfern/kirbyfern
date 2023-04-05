@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Would You Rather Work in a Small Startup or a Large Corporation?](https://dev.to/codenewbieteam/would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn)
 - [Where to Start: Python or JavaScript?](https://dev.to/codenewbieteam/where-to-start-python-or-javascript-3peg)
 - [Meme Monday 🐌](https://dev.to/ben/meme-monday-3nd9)
 - [Open-Source or Proprietary Software?](https://dev.to/codenewbieteam/open-source-or-proprietary-software-hil)
-- [Important Announcement: All Code Must Now Be Written in Pig Latin](https://dev.to/codenewbieteam/important-announcement-all-code-must-now-be-written-in-pig-latin-5b7h)
 <!-- BLOG-POST-LIST:END -->
