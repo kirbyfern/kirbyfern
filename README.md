@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Childhood Dreams vs. Tech Reality: How Did You End Up Here?](https://dev.to/codenewbieteam/childhood-dreams-vs-tech-reality-how-did-you-end-up-here-3p38)
 - [Would You Rather Work in a Small Startup or a Large Corporation?](https://dev.to/codenewbieteam/would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn)
 - [Where to Start: Python or JavaScript?](https://dev.to/codenewbieteam/where-to-start-python-or-javascript-3peg)
 - [Meme Monday 🐌](https://dev.to/ben/meme-monday-3nd9)
-- [Open-Source or Proprietary Software?](https://dev.to/codenewbieteam/open-source-or-proprietary-software-hil)
 <!-- BLOG-POST-LIST:END -->
