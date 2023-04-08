@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Need a Good Laugh? Tell Us Your Favorite Coder Jokes.](https://dev.to/codenewbieteam/need-a-good-laugh-tell-us-your-favorite-coder-jokes-jco)
 - [Back-end Guru or Front-end Fanatic?](https://dev.to/codenewbieteam/back-end-guru-or-front-end-fanatic-121c)
 - [Childhood Dreams vs. Tech Reality: How Did You End Up Here?](https://dev.to/codenewbieteam/childhood-dreams-vs-tech-reality-how-did-you-end-up-here-3p38)
 - [Would You Rather Work in a Small Startup or a Large Corporation?](https://dev.to/codenewbieteam/would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn)
-- [Where to Start: Python or JavaScript?](https://dev.to/codenewbieteam/where-to-start-python-or-javascript-3peg)
 <!-- BLOG-POST-LIST:END -->
