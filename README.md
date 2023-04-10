@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-41ha)
 - [What Makes Working in Tech Truly Rewarding?](https://dev.to/codenewbieteam/what-makes-working-in-tech-truly-rewarding-eoc)
 - [Need a Good Laugh? Tell Us Your Favorite Coder Jokes.](https://dev.to/codenewbieteam/need-a-good-laugh-tell-us-your-favorite-coder-jokes-jco)
 - [Back-end Guru or Front-end Fanatic?](https://dev.to/codenewbieteam/back-end-guru-or-front-end-fanatic-121c)
-- [Childhood Dreams vs. Tech Reality: How Did You End Up Here?](https://dev.to/codenewbieteam/childhood-dreams-vs-tech-reality-how-did-you-end-up-here-3p38)
 <!-- BLOG-POST-LIST:END -->
