@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Tech Industry Burnout: How Can We Prevent It?](https://dev.to/codenewbieteam/tech-industry-burnout-how-can-we-prevent-it-1ll2)
 - [Meme Monday](https://dev.to/ben/meme-monday-41ha)
 - [What Makes Working in Tech Truly Rewarding?](https://dev.to/codenewbieteam/what-makes-working-in-tech-truly-rewarding-eoc)
 - [Need a Good Laugh? Tell Us Your Favorite Coder Jokes.](https://dev.to/codenewbieteam/need-a-good-laugh-tell-us-your-favorite-coder-jokes-jco)
-- [Back-end Guru or Front-end Fanatic?](https://dev.to/codenewbieteam/back-end-guru-or-front-end-fanatic-121c)
 <!-- BLOG-POST-LIST:END -->
