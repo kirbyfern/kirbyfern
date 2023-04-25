@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Specialization vs. Generalization: Which Is Better for Programmers?](https://dev.to/codenewbieteam/specialization-vs-generalization-which-is-better-for-programmers-4884)
 - [Meme Monday](https://dev.to/ben/meme-monday-531a)
 - [What&#39;s the Most Unusual Place You’ve Ever Coded From?](https://dev.to/codenewbieteam/whats-the-most-unusual-place-youve-ever-coded-from-3l3)
 - [Coding Skills Not Found. Share Your Funniest Coding Failures 💻💥🙈](https://dev.to/codenewbieteam/coding-skills-not-found-share-your-funniest-coding-failures-4koj)
-- [How Do You Land Your First Job in Tech?](https://dev.to/codenewbieteam/how-do-you-land-your-first-job-in-tech-56ea)
 <!-- BLOG-POST-LIST:END -->
