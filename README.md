@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Tight Deadlines &amp; Long Hours or Relaxed Timelines &amp; Lower Pay?](https://dev.to/codenewbieteam/tight-deadlines-long-hours-or-relaxed-timelines-lower-pay-bdm)
 - [What Do Coders Have in Common? 😜](https://dev.to/codenewbieteam/what-do-coders-have-in-common-89)
 - [Specialization vs. Generalization: Which Is Better for Programmers?](https://dev.to/codenewbieteam/specialization-vs-generalization-which-is-better-for-programmers-4884)
 - [Meme Monday](https://dev.to/ben/meme-monday-531a)
-- [What&#39;s the Most Unusual Place You’ve Ever Coded From?](https://dev.to/codenewbieteam/whats-the-most-unusual-place-youve-ever-coded-from-3l3)
 <!-- BLOG-POST-LIST:END -->
