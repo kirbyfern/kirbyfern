@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How to make lifelong learning a habit. Step 1: Be curious](https://dev.to/ben/how-to-make-lifelong-learning-a-habit-step-1-be-curious-d9i)
 - [Tight Deadlines &amp; Long Hours or Relaxed Timelines &amp; Lower Pay?](https://dev.to/codenewbieteam/tight-deadlines-long-hours-or-relaxed-timelines-lower-pay-bdm)
 - [What Do Coders Have in Common? 😜](https://dev.to/codenewbieteam/what-do-coders-have-in-common-89)
 - [Specialization vs. Generalization: Which Is Better for Programmers?](https://dev.to/codenewbieteam/specialization-vs-generalization-which-is-better-for-programmers-4884)
-- [Meme Monday](https://dev.to/ben/meme-monday-531a)
 <!-- BLOG-POST-LIST:END -->
