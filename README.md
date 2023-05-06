@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What Would Your Code Look Like as a Painting?](https://dev.to/codenewbieteam/what-would-your-code-look-like-as-a-painting-5af2)
 - [Are You a One Device Wonder or Tech Collector?](https://dev.to/codenewbieteam/are-you-a-one-device-wonder-or-tech-collector-4n9j)
 - [The White House signaled support for potential new AI regulations](https://dev.to/ben/the-white-house-signaled-support-for-potential-new-ai-regulations-edi)
 - [Which programming ecosystems are helped and hurt by generative AI?](https://dev.to/ben/which-programming-ecosystems-are-helped-and-hurt-by-generative-ai-3m38)
-- [Which Star Wars Character Would Make the Best Developer?](https://dev.to/codenewbieteam/which-star-wars-character-would-make-the-best-developer-o3g)
 <!-- BLOG-POST-LIST:END -->
