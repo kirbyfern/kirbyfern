@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2af4)
 - [Level Up! What&#39;s One Skill You Want to Improve This Week?](https://dev.to/codenewbieteam/level-up-whats-one-skill-you-want-to-improve-this-week-1lnp)
 - [VR Wonderlands: What Kind of Experience Would You Create?](https://dev.to/codenewbieteam/vr-wonderlands-what-kind-of-experience-would-you-create-4309)
 - [Robot Companions: What Superpowers Would You Give Yours?](https://dev.to/codenewbieteam/robot-companions-what-superpowers-would-you-give-yours-2921)
-- [Describe Coding in 3 Words](https://dev.to/codenewbieteam/describe-coding-in-3-words-gpn)
 <!-- BLOG-POST-LIST:END -->
