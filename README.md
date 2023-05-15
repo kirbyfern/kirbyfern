@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Level Up! What&#39;s One Skill You Want to Improve This Week?](https://dev.to/codenewbieteam/level-up-whats-one-skill-you-want-to-improve-this-week-1lnp)
 - [VR Wonderlands: What Kind of Experience Would You Create?](https://dev.to/codenewbieteam/vr-wonderlands-what-kind-of-experience-would-you-create-4309)
 - [Robot Companions: What Superpowers Would You Give Yours?](https://dev.to/codenewbieteam/robot-companions-what-superpowers-would-you-give-yours-2921)
 - [Describe Coding in 3 Words](https://dev.to/codenewbieteam/describe-coding-in-3-words-gpn)
-- [What Was Your Toughest Coding Concept and How Did You Conquer It?](https://dev.to/codenewbieteam/what-was-your-toughest-coding-concept-and-how-did-you-conquer-it-4nl8)
 <!-- BLOG-POST-LIST:END -->
