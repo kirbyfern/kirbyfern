@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Ensure Your Code Speaks Clearly to Other Developers?](https://dev.to/codenewbieteam/how-do-you-ensure-your-code-speaks-clearly-to-other-developers-bnh)
 - [Meme Monday](https://dev.to/ben/meme-monday-14lj)
 - [How Do You Build a Strong Coding Portfolio?](https://dev.to/codenewbieteam/how-do-you-build-a-strong-coding-portfolio-2778)
 - [Do You Have a Nostalgia Collection?](https://dev.to/codenewbieteam/do-you-have-a-nostalgia-collection-4490)
-- [What&#39;s Your Signature Victory Dance in the Coding Olympics?](https://dev.to/codenewbieteam/whats-your-signature-victory-dance-in-the-coding-olympics-4i44)
 <!-- BLOG-POST-LIST:END -->
