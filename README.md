@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Brilliant Programmer vs. Excellent Communicator: Which Coding Mentor Would You Choose?](https://dev.to/codenewbieteam/brilliant-programmer-vs-excellent-communicator-which-coding-mentor-would-you-choose-43d3)
 - [How Do You Ensure Your Code Speaks Clearly to Other Developers?](https://dev.to/codenewbieteam/how-do-you-ensure-your-code-speaks-clearly-to-other-developers-bnh)
 - [Meme Monday](https://dev.to/ben/meme-monday-14lj)
 - [How Do You Build a Strong Coding Portfolio?](https://dev.to/codenewbieteam/how-do-you-build-a-strong-coding-portfolio-2778)
-- [Do You Have a Nostalgia Collection?](https://dev.to/codenewbieteam/do-you-have-a-nostalgia-collection-4490)
 <!-- BLOG-POST-LIST:END -->
