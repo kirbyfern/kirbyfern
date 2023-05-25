@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Ace Your Tech Job Cover Letter?](https://dev.to/codenewbieteam/how-do-you-ace-your-tech-job-cover-letter-30c6)
 - [Brilliant Programmer vs. Excellent Communicator: Which Coding Mentor Would You Choose?](https://dev.to/codenewbieteam/brilliant-programmer-vs-excellent-communicator-which-coding-mentor-would-you-choose-43d3)
 - [How Do You Ensure Your Code Speaks Clearly to Other Developers?](https://dev.to/codenewbieteam/how-do-you-ensure-your-code-speaks-clearly-to-other-developers-bnh)
 - [Meme Monday](https://dev.to/ben/meme-monday-14lj)
-- [How Do You Build a Strong Coding Portfolio?](https://dev.to/codenewbieteam/how-do-you-build-a-strong-coding-portfolio-2778)
 <!-- BLOG-POST-LIST:END -->
