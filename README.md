@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What Questions Should New Coders Ask to Find the Right Employer Fit?](https://dev.to/codenewbieteam/what-questions-should-new-coders-ask-to-find-the-right-employer-fit-51d)
 - [How Do You Ace Your Tech Job Cover Letter?](https://dev.to/codenewbieteam/how-do-you-ace-your-tech-job-cover-letter-30c6)
 - [Brilliant Programmer vs. Excellent Communicator: Which Coding Mentor Would You Choose?](https://dev.to/codenewbieteam/brilliant-programmer-vs-excellent-communicator-which-coding-mentor-would-you-choose-43d3)
 - [How Do You Ensure Your Code Speaks Clearly to Other Developers?](https://dev.to/codenewbieteam/how-do-you-ensure-your-code-speaks-clearly-to-other-developers-bnh)
-- [Meme Monday](https://dev.to/ben/meme-monday-14lj)
 <!-- BLOG-POST-LIST:END -->
