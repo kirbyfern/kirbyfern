@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Are Coding Bootcamps Still A Thing?](https://dev.to/codenewbieteam/are-coding-bootcamps-still-a-thing-1jde)
 - [Dream Big: What&#39;s Your Ideal Job?](https://dev.to/codenewbieteam/dream-big-whats-your-ideal-job-20km)
 - [Coding Companions: Which Animal Is Your Perfect Coding Mascot?](https://dev.to/codenewbieteam/coding-companions-which-animal-is-your-perfect-coding-mascot-17ib)
 - [What Questions Should New Coders Ask to Find the Right Employer Fit?](https://dev.to/codenewbieteam/what-questions-should-new-coders-ask-to-find-the-right-employer-fit-51d)
-- [How Do You Ace Your Tech Job Cover Letter?](https://dev.to/codenewbieteam/how-do-you-ace-your-tech-job-cover-letter-30c6)
 <!-- BLOG-POST-LIST:END -->
