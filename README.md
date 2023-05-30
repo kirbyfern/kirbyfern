@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Coding Fuel: What Are Your Go-to Snacks?](https://dev.to/codenewbieteam/coding-fuel-what-are-your-go-to-snacks-44he)
 - [Meme Monday](https://dev.to/ben/meme-monday-34ka)
 - [Are Coding Bootcamps Still A Thing?](https://dev.to/codenewbieteam/are-coding-bootcamps-still-a-thing-1jde)
 - [Dream Big: What&#39;s Your Ideal Job?](https://dev.to/codenewbieteam/dream-big-whats-your-ideal-job-20km)
-- [Coding Companions: Which Animal Is Your Perfect Coding Mascot?](https://dev.to/codenewbieteam/coding-companions-which-animal-is-your-perfect-coding-mascot-17ib)
 <!-- BLOG-POST-LIST:END -->
