@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [The Coding Language Personality Test: What Would It Look Like?](https://dev.to/codenewbieteam/the-coding-language-personality-test-what-would-it-look-like-4fo3)
 - [Agile and Scrum: What Are Your Thoughts?](https://dev.to/codenewbieteam/agile-and-scrum-what-are-your-thoughts-1cp1)
 - [Tech Memes through the Ages: Which One Stands the Test of Time?](https://dev.to/codenewbieteam/tech-memes-through-the-ages-which-one-stands-the-test-of-time-27pf)
 - [APIs Unveiled: Interview Edition! How Have You Worked Your Developer Magic?](https://dev.to/codenewbieteam/apis-unveiled-interview-edition-how-have-you-worked-your-developer-magic-2c37)
-- [Building Allies: How Can You Support Queer Colleagues in the Workplace?](https://dev.to/codenewbieteam/building-allies-how-can-you-support-queer-colleagues-in-the-workplace-2hjo)
 <!-- BLOG-POST-LIST:END -->
