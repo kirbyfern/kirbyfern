@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Deal with Presentation Anxiety?](https://dev.to/codenewbieteam/do-you-have-presentation-anxiety-43de)
 - [What&#39;s your initial reaction to Apple Vision Pro?](https://dev.to/ben/whats-your-initial-reaction-to-apple-vision-pro-3715)
 - [Meme Monday](https://dev.to/ben/meme-monday-a8o)
 - [The Coding Language Personality Test: What Would It Look Like?](https://dev.to/codenewbieteam/the-coding-language-personality-test-what-would-it-look-like-4fo3)
-- [Agile and Scrum: What Are Your Thoughts?](https://dev.to/codenewbieteam/agile-and-scrum-what-are-your-thoughts-1cp1)
 <!-- BLOG-POST-LIST:END -->
