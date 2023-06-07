@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [If You Could Chat with a Historical Figure, Who Would It Be and What Would You Ask?](https://dev.to/codenewbieteam/if-you-could-chat-with-a-historical-figure-who-would-it-be-and-what-would-you-ask-44i8)
 - [How Do You Deal with Presentation Anxiety?](https://dev.to/codenewbieteam/do-you-have-presentation-anxiety-43de)
 - [What&#39;s your initial reaction to Apple Vision Pro?](https://dev.to/ben/whats-your-initial-reaction-to-apple-vision-pro-3715)
 - [Meme Monday](https://dev.to/ben/meme-monday-a8o)
-- [The Coding Language Personality Test: What Would It Look Like?](https://dev.to/codenewbieteam/the-coding-language-personality-test-what-would-it-look-like-4fo3)
 <!-- BLOG-POST-LIST:END -->
