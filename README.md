@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Juggling Multiple Projects: How Do You Stay Sane?](https://dev.to/codenewbieteam/juggling-multiple-projects-how-do-you-stay-sane-4h67)
 - [Overcoming Skill Plateaus: How Do You Keep Growing?](https://dev.to/codenewbieteam/overcoming-skill-plateaus-how-do-you-keep-growing-g4p)
 - [Meme Monday](https://dev.to/ben/meme-monday-54bo)
 - [How Can I Dive into a New Tech Specialty without a Formal Background?](https://dev.to/codenewbieteam/how-can-i-dive-into-a-new-tech-specialty-without-a-formal-background-1bf5)
-- [How Do You Show Your Coding Passion in Job App Materials?](https://dev.to/codenewbieteam/how-do-you-show-your-coding-passion-in-job-app-materials-1o7a)
 <!-- BLOG-POST-LIST:END -->
