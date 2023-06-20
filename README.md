@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Do I Really Have to Math? Can You Navigate the Tech World without Numbers?](https://dev.to/codenewbieteam/do-i-really-have-to-math-can-you-navigate-the-tech-world-without-numbers-2n49)
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5846)
 - [Meme Monday](https://dev.to/ben/meme-monday-3c8g)
 - [What&#39;s the Deal with OOP?](https://dev.to/codenewbieteam/whats-the-deal-with-oop-29eh)
-- [Is Traditional Coding Worthwhile in the Era of Low-Code and No-Code Platforms?](https://dev.to/codenewbieteam/is-traditional-coding-worthwhile-in-the-era-of-low-code-and-no-code-platforms-41gd)
-- [Coding as Magic: What Would You Wish For? 🔮✨](https://dev.to/codenewbieteam/coding-as-magic-what-would-you-wish-for-5751)
 <!-- BLOG-POST-LIST:END -->
