@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Do I Really Have to Math? Can You Navigate the Tech World without Numbers?](https://dev.to/codenewbieteam/do-i-really-have-to-math-can-you-navigate-the-tech-world-without-numbers-2n49)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5846)
+- [Do I Really Have to Math? Can You Navigate the Tech World without Numbers?](https://dev.to/codenewbieteam/do-i-really-have-to-math-can-you-navigate-the-tech-world-without-numbers-2n49)
 - [Meme Monday](https://dev.to/ben/meme-monday-3c8g)
 - [What&#39;s the Deal with OOP?](https://dev.to/codenewbieteam/whats-the-deal-with-oop-29eh)
 <!-- BLOG-POST-LIST:END -->
