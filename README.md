@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How Can We Mentor New Coders Without Overwhelming Them?](https://dev.to/codenewbieteam/how-can-we-mentor-new-coders-without-overwhelming-them-18pn)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-49gp)
 - [Advice for New Coders: Fundamentals or Frameworks?](https://dev.to/codenewbieteam/advice-for-new-coders-fundamentals-or-frameworks-2cg6)
 - [Meme Monday](https://dev.to/ben/meme-monday-12jl)
-- [Any Hidden Gems?💎✨ What Lesser-known Resources Boost Coding Skills?](https://dev.to/codenewbieteam/any-hidden-gems-what-lesser-known-resources-boost-coding-skills-1ggj)
 <!-- BLOG-POST-LIST:END -->
