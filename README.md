@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Self-Taught Programmers: How Did You Land Your First Job?](https://dev.to/codenewbieteam/self-taught-programmers-how-did-you-land-your-first-job-4pha)
 - [With GitHub apparently down right now...](https://dev.to/ben/with-github-apparently-down-right-now-on2)
 - [Reflecting on Your First Year as a Developer: Lessons Learned?](https://dev.to/codenewbieteam/reflecting-on-your-first-year-as-a-developer-lessons-learned-e1b)
 - [How Can We Mentor New Coders Without Overwhelming Them?](https://dev.to/codenewbieteam/how-can-we-mentor-new-coders-without-overwhelming-them-18pn)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-49gp)
 <!-- BLOG-POST-LIST:END -->
