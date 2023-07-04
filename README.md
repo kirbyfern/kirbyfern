@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-jee)
 - [Coding 101: What are Algorithms?](https://dev.to/codenewbieteam/coding-101-what-are-algorithms-2fm1)
 - [Meme Monday](https://dev.to/ben/meme-monday-53cl)
 - [Coding 101: HTML, HTML5, CSS, CSS3 - What&#39;s the Difference?](https://dev.to/codenewbieteam/coding-101-html-html5-css-css3-whats-the-difference-2p67)
-- [Coding 101: Is HTML a Programming Language? Why or Why Not?](https://dev.to/codenewbieteam/coding-101-is-html-a-programming-language-why-or-why-not-97n)
 <!-- BLOG-POST-LIST:END -->
