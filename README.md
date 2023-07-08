@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Coding 101: What&#39;s the Difference between Designers &amp; Developers?](https://dev.to/codenewbieteam/coding-101-whats-the-difference-between-designers-developers-4083)
 - [Coding 101: How Do I Get My Website Online?](https://dev.to/codenewbieteam/coding-101-how-do-i-get-my-website-online-2nk7)
 - [Coding 101: How is Coding Different from Programming?](https://dev.to/codenewbieteam/coding-101-how-is-coding-different-from-programming-4060)
 - [Coding 101: How Do You Say SQL and What Is Its Role?](https://dev.to/codenewbieteam/coding-101-how-do-you-say-sql-and-what-is-its-role-58ch)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-jee)
 <!-- BLOG-POST-LIST:END -->
