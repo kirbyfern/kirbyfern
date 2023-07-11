@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Coding Problem Interview Series: How to Implement Bucket Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bucket-sort-algorithm-5472)
 - [Meme Monday](https://dev.to/ben/meme-monday-4ip5)
 - [Coding Problem Interview Series: How to Convert a String to Integer &lpar;atoi&lpar;&rpar;&rpar;?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-convert-a-string-to-integer-atoi-3fh1)
 - [Coding Problem Interview Series: How to Implement Bubble Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bubble-sort-n16)
-- [Coding 101: What&#39;s the Difference between Designers &amp; Developers?](https://dev.to/codenewbieteam/coding-101-whats-the-difference-between-designers-developers-4083)
 <!-- BLOG-POST-LIST:END -->
