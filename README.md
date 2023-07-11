@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-4kf8)
 - [Coding Problem Interview Series: How to Implement Bucket Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bucket-sort-algorithm-5472)
 - [Meme Monday](https://dev.to/ben/meme-monday-4ip5)
 - [Coding Problem Interview Series: How to Convert a String to Integer &lpar;atoi&lpar;&rpar;&rpar;?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-convert-a-string-to-integer-atoi-3fh1)
-- [Coding Problem Interview Series: How to Implement Bubble Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bubble-sort-n16)
 <!-- BLOG-POST-LIST:END -->
