@@ -17,8 +17,8 @@
 
 ### Blog Posts (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Coding Problem Interview Series: How to Find the First Non-Repeated Character in a String?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-find-the-first-non-repeated-character-in-a-string-3ha1)
 - [Coding Problem Interview Series: How to Implement Counting Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-counting-sort-algorithm-48ng)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-4kf8)
 - [Coding Problem Interview Series: How to Implement Bucket Sort Algorithm?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bucket-sort-algorithm-5472)
-- [Meme Monday](https://dev.to/ben/meme-monday-4ip5)
 <!-- BLOG-POST-LIST:END -->
