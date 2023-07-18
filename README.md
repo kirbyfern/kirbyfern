@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-1hn1)
 - [Top-notch Coding Qualities: Problem-solving Skills](https://dev.to/codenewbieteam/top-notch-coding-qualities-problem-solving-skills-2m25)
 - [Which App or Website Would You Makeover &amp; How?](https://dev.to/codenewbieteam/which-app-or-website-would-you-makeover-how-4i8f)
 - [Meme Monday](https://dev.to/ben/meme-monday-4ah1)
-- [Coding Problem Interview Series: How to Implement Merge Sort?](https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-merge-sort-23o5)
 <!-- BLOG-POST-LIST:END -->
