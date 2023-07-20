@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Top-notch Coding Qualities: Collaboration &amp; Communication](https://dev.to/codenewbieteam/top-notch-coding-qualities-collaboration-communication-38l3)
-- [Top-notch Coding Qualities: Attention to Detail](https://dev.to/codenewbieteam/top-notch-coding-qualities-attention-to-detail-3fmg)
+- [Coding Community: How Essential Are Collaboration &amp; Communication?](https://dev.to/codenewbieteam/top-notch-coding-qualities-collaboration-communication-38l3)
+- [Precision in Coding: How Crucial is Attention to Detail?](https://dev.to/codenewbieteam/top-notch-coding-qualities-attention-to-detail-3fmg)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-1hn1)
-- [Top-notch Coding Qualities: Problem-solving Skills](https://dev.to/codenewbieteam/top-notch-coding-qualities-problem-solving-skills-2m25)
+- [What&#39;s the Impact of Problem-solving Skills in Coding?](https://dev.to/codenewbieteam/top-notch-coding-qualities-problem-solving-skills-2m25)
 <!-- BLOG-POST-LIST:END -->
