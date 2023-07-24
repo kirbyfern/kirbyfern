@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-43eo)
 - [Resilience &amp; Perseverance: How Vital Are They?](https://dev.to/codenewbieteam/top-notch-coding-qualities-resilience-perseverance-p44)
 - [Continuous Learning &amp; Curiosity: Fuels of Top-notch Coders?](https://dev.to/codenewbieteam/top-notch-coding-qualities-continuous-learning-curiosity-4bo6)
 - [Creativity &amp; Innovation: Game-changers in Coding?](https://dev.to/codenewbieteam/top-notch-coding-qualities-creativity-innovation-1p9o)
-- [Adaptability &amp; Flexibility: Key Coding Qualities?](https://dev.to/codenewbieteam/top-notch-coding-qualities-adaptability-flexibility-1doe)
 <!-- BLOG-POST-LIST:END -->
