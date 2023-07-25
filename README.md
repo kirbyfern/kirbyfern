@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-2j1h)
 - [Eyeing a Cybersecurity Career? Which Skills and Certifications Unlock the Best Opportunities?](https://dev.to/codenewbieteam/eyeing-a-cybersecurity-career-which-skills-and-certifications-unlock-the-best-opportunities-3le1)
 - [Meme Monday](https://dev.to/ben/meme-monday-43eo)
 - [Resilience &amp; Perseverance: How Vital Are They?](https://dev.to/codenewbieteam/top-notch-coding-qualities-resilience-perseverance-p44)
-- [Continuous Learning &amp; Curiosity: Fuels of Top-notch Coders?](https://dev.to/codenewbieteam/top-notch-coding-qualities-continuous-learning-curiosity-4bo6)
 <!-- BLOG-POST-LIST:END -->
