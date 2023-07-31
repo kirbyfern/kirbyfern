@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-51j1)
 - [Whatcha Watchin&#39;? 👀📺](https://dev.to/codenewbieteam/whatcha-watchin-c68)
 - [What Are the Top Three Must-have Apps on Your Phone?](https://dev.to/codenewbieteam/what-are-the-top-three-must-have-apps-on-your-phone-5b46)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-2j1h)
-- [Eyeing a Cybersecurity Career? Which Skills and Certifications Unlock the Best Opportunities?](https://dev.to/codenewbieteam/eyeing-a-cybersecurity-career-which-skills-and-certifications-unlock-the-best-opportunities-3le1)
 <!-- BLOG-POST-LIST:END -->
