@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-43bd)
 - [How has AI changed your approach to development?](https://dev.to/ben/how-has-ai-changed-your-approach-to-development-2hk0)
 - [Rubyist Hangout Thread](https://dev.to/devteam/rubyist-hangout-thread-859)
 - [Meme Monday](https://dev.to/ben/meme-monday-51j1)
-- [Whatcha Watchin&#39;? 👀📺](https://dev.to/codenewbieteam/whatcha-watchin-c68)
 <!-- BLOG-POST-LIST:END -->
