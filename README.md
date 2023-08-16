@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Share Your Encounters with Sticky Coding Obstacles](https://dev.to/codenewbieteam/share-your-encounters-with-sticky-coding-obstacles-2l5e)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-3d79)
 - [How Do You Handle Self-Doubt in Coding?](https://dev.to/codenewbieteam/how-do-you-handle-self-doubt-in-coding-4dl0)
 - [Meme Monday](https://dev.to/ben/meme-monday-c8j)
-- [Overcoming Hesitations to Seek Help &amp; Collaboration](https://dev.to/codenewbieteam/overcoming-hesitations-to-seek-help-collaboration-4gdl)
 <!-- BLOG-POST-LIST:END -->
