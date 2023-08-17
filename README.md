@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What Aspects of Coding Still Leave You Feeling Uncertain?](https://dev.to/codenewbieteam/what-aspects-of-coding-still-leave-you-feeling-uncertain-4ea)
 - [Share Your Encounters with Sticky Coding Obstacles](https://dev.to/codenewbieteam/share-your-encounters-with-sticky-coding-obstacles-2l5e)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-3d79)
 - [How Do You Handle Self-Doubt in Coding?](https://dev.to/codenewbieteam/how-do-you-handle-self-doubt-in-coding-4dl0)
-- [Meme Monday](https://dev.to/ben/meme-monday-c8j)
 <!-- BLOG-POST-LIST:END -->
