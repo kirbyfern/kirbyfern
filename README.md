@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [First Code Crush: Which Language Feels Like Home?](https://dev.to/codenewbieteam/first-code-crush-which-language-feels-like-home-577f)
 - [What&#39;s Been Your Most Perplexing Coding Moment?](https://dev.to/codenewbieteam/whats-been-your-most-perplexing-coding-moment-29f1)
 - [What Aspects of Coding Still Leave You Feeling Uncertain?](https://dev.to/codenewbieteam/what-aspects-of-coding-still-leave-you-feeling-uncertain-4ea)
 - [Share Your Encounters with Sticky Coding Obstacles](https://dev.to/codenewbieteam/share-your-encounters-with-sticky-coding-obstacles-2l5e)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-3d79)
 <!-- BLOG-POST-LIST:END -->
