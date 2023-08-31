@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How would you describe the quality of the codebases you&#39;ve worked on in your career?](https://dev.to/ben/how-would-you-describe-the-quality-of-the-codebases-youve-worked-on-in-your-career-3fdl)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-194)
 - [What&#39;s Your Most Intriguing Coding Puzzle?](https://dev.to/codenewbieteam/whats-your-most-intriguing-coding-puzzle-2k2a)
 - [We Are Turning off Listings](https://dev.to/devteam/we-are-turning-off-listings-5857)
-- [Meme Monday](https://dev.to/ben/meme-monday-2p7o)
 <!-- BLOG-POST-LIST:END -->
