@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-1hjc)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5gmo)
 - [Meme Monday](https://dev.to/ben/meme-3opp)
 - [How would you describe the quality of the codebases you&#39;ve worked on in your career?](https://dev.to/ben/how-would-you-describe-the-quality-of-the-codebases-youve-worked-on-in-your-career-3fdl)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-194)
 <!-- BLOG-POST-LIST:END -->
