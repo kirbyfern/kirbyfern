@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-3olc)
 - [What are your takeaways from the Apple event?](https://dev.to/ben/what-are-your-takeaways-from-the-apple-event-24f7)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-33hc)
 - [Meme Monday](https://dev.to/ben/meme-monday-1hjc)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-5gmo)
 <!-- BLOG-POST-LIST:END -->
