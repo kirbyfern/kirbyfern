@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-3b3b)
 - [Meme Monday](https://dev.to/ben/meme-monday-3ll2)
 - [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-mg6)
 - [Meme Monday](https://dev.to/ben/meme-monday-an6)
-- [Rubyist Hangout Thread](https://dev.to/ben/rubyist-hangout-thread-2i84)
 <!-- BLOG-POST-LIST:END -->
