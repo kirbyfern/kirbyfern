@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-11d4)
 - [Does an OpenAi outage have an impact on your workflow?](https://dev.to/ben/does-an-openai-outage-have-an-impact-on-your-workflow-3gph)
 - [Meme Monday](https://dev.to/ben/meme-monday-1i9a)
 - [Every GitHub Repo 404 😱](https://dev.to/ben/every-github-repo-404-74e)
-- [Happy Halloween 🎃](https://dev.to/ben/happy-halloween-4g62)
 <!-- BLOG-POST-LIST:END -->
