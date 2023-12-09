@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What new releases are you most excited about these days?](https://dev.to/ben/what-new-releases-are-you-most-excited-about-these-days-4cac)
 - [Meme Monday](https://dev.to/ben/meme-monday-12c9)
 - [Meme Monday](https://dev.to/ben/meme-monday-106)
 - [Meme Monday](https://dev.to/ben/meme-monday-4b0h)
-- [Meme Monday](https://dev.to/ben/meme-monday-11d4)
 <!-- BLOG-POST-LIST:END -->
