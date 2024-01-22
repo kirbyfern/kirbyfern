@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-25a4)
 - [Meme Monday](https://dev.to/ben/meme-monday-5h8i)
 - [What concepts do junior devs get stuck on where they usually need guidance to get past the problem?](https://dev.to/ben/what-concepts-do-junior-devs-get-stuck-on-where-they-usually-need-guidance-to-get-past-the-problem-1lo1)
 - [Meme Monday](https://dev.to/ben/meme-monday-357l)
-- [Meme Monday &lpar;Holiday themed?&rpar;](https://dev.to/ben/meme-monday-holiday-themed-13l5)
 <!-- BLOG-POST-LIST:END -->
