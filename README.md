@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Have you tried the Arc browser?](https://dev.to/ben/have-you-tried-the-arc-browser-3n9o)
 - [Meme Monday](https://dev.to/ben/meme-monday-3p7n)
 - [Tackling Clickbait on DEV: Strategy and Technical Approach](https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9)
 - [Meme Monday](https://dev.to/ben/meme-monday-25a4)
-- [Meme Monday](https://dev.to/ben/meme-monday-5h8i)
 <!-- BLOG-POST-LIST:END -->
