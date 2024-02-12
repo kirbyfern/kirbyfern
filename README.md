@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-4nn9)
 - [Meme Monday](https://dev.to/ben/meme-monday-27n8)
 - [The Steve Jobs-era Vision Pro sketches](https://dev.to/ben/the-steve-jobs-era-vision-pro-sketches-2bg9)
 - [How do you expect video games to change in the next few years?](https://dev.to/ben/how-do-you-expect-video-games-to-change-in-the-next-few-years-306i)
-- [Have you tried the Arc browser?](https://dev.to/ben/have-you-tried-the-arc-browser-3n9o)
 <!-- BLOG-POST-LIST:END -->
