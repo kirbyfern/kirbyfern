@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-1k87)
 - [What time of day is peak energy and focus for you?](https://dev.to/ben/what-time-of-day-is-peak-energy-and-focus-for-you-2okn)
 - [Meme Monday](https://dev.to/ben/meme-monday-46pb)
 - [Meme Monday](https://dev.to/ben/meme-monday-4nn9)
-- [Meme Monday](https://dev.to/ben/meme-monday-27n8)
 <!-- BLOG-POST-LIST:END -->
