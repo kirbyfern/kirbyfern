@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2j0b)
 - [Whitehouse Declares Software Should Be Memory Safe](https://dev.to/ben/whitehouse-declares-software-should-be-memory-safe-4bb2)
 - [Meme Monday](https://dev.to/ben/meme-monday-1k87)
 - [What time of day is peak energy and focus for you?](https://dev.to/ben/what-time-of-day-is-peak-energy-and-focus-for-you-2okn)
-- [Meme Monday](https://dev.to/ben/meme-monday-46pb)
 <!-- BLOG-POST-LIST:END -->
