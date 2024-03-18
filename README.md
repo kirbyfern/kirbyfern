@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-3i6f)
 - [AI and the Future of Actually Getting a Job](https://dev.to/ben/ai-and-the-future-of-actually-getting-a-job-4ei)
 - [Meme Monday](https://dev.to/ben/meme-monday-ha4)
 - [What are the best and worst things about your favorite programming language?](https://dev.to/ben/what-are-the-best-and-worst-things-about-your-favorite-programming-language-1o95)
-- [Meme Monday](https://dev.to/ben/meme-monday-2j0b)
 <!-- BLOG-POST-LIST:END -->
