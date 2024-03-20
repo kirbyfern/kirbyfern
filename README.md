@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Explaining requestAnimationFrame in 256 characters or fewer](https://dev.to/ben/explaining-requestanimationframe-in-256-characters-or-fewer-29n6)
 - [Meme Monday](https://dev.to/ben/meme-monday-3i6f)
 - [AI and the Future of Actually Getting a Job](https://dev.to/ben/ai-and-the-future-of-actually-getting-a-job-4ei)
 - [Meme Monday](https://dev.to/ben/meme-monday-ha4)
-- [What are the best and worst things about your favorite programming language?](https://dev.to/ben/what-are-the-best-and-worst-things-about-your-favorite-programming-language-1o95)
 <!-- BLOG-POST-LIST:END -->
