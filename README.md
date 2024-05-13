@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-5hdi)
 - [Meme Monday](https://dev.to/ben/meme-monday-hc2)
 - [Meme Monday](https://dev.to/ben/meme-monday-44dh)
 - [Meme Monday](https://dev.to/ben/meme-monday-47e2)
-- [Without looking it up, do you know what jpeg stands for?](https://dev.to/ben/without-looking-it-up-do-you-know-what-jpeg-stands-for-17bp)
 <!-- BLOG-POST-LIST:END -->
