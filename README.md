@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-110g)
+- [Weekly Watercooler Thread](https://dev.to/ben/weekly-watercooler-thread-4008)
 - [Meme Monday](https://dev.to/ben/meme-monday-4p8i)
 - [Watercooler Wednesday](https://dev.to/ben/watercooler-wednesday-4mm9)
-- [Meme Monday](https://dev.to/ben/meme-monday-5b9c)
-- [Meme Monday](https://dev.to/ben/meme-monday-53am)
 <!-- BLOG-POST-LIST:END -->
