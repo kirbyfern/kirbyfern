@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-el7)
 - [Three Pieces of Advice for DEV Challenges](https://dev.to/ben/three-pieces-of-advice-for-dev-challenges-2nof)
 - [Meme Monday](https://dev.to/ben/meme-monday-4a0e)
 - [Meme Monday](https://dev.to/ben/meme-monday-2484)
-- [Meme Monday](https://dev.to/ben/meme-monday-2p6h)
 <!-- BLOG-POST-LIST:END -->
