@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres](https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845)
 - [Meme Monday](https://dev.to/ben/meme-monday-el7)
 - [Three Pieces of Advice for DEV Challenges](https://dev.to/ben/three-pieces-of-advice-for-dev-challenges-2nof)
 - [Meme Monday](https://dev.to/ben/meme-monday-4a0e)
-- [Meme Monday](https://dev.to/ben/meme-monday-2484)
 <!-- BLOG-POST-LIST:END -->
