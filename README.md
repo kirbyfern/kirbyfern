@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-49ph)
 - [Introducing DEV++](https://dev.to/devteam/introducing-dev-2k6d)
 - [Meme Monday](https://dev.to/ben/meme-monday-4h5d)
 - [Meme Monday](https://dev.to/ben/meme-monday-lgn)
-- [The Fight Against Low-Quality Automation](https://dev.to/devteam/the-fight-against-low-quality-automation-3p7f)
 <!-- BLOG-POST-LIST:END -->
