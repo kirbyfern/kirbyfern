@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-48g)
 - [Meme Monday](https://dev.to/ben/meme-monday-4pki)
 - [New DEV++ Deal: 25% Off Scrimba Pro](https://dev.to/devteam/new-dev-deal-25-off-scrimba-pro-3eed)
 - [Meme Monday](https://dev.to/ben/meme-monday-49ph)
-- [Introducing DEV++](https://dev.to/devteam/introducing-dev-2k6d)
 <!-- BLOG-POST-LIST:END -->
