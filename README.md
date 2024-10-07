@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13hp)
 - [What&#39;s the worst codebase you&#39;ve ever worked in?](https://dev.to/ben/whats-the-worst-codebase-youve-ever-worked-in-1ndk)
 - [Meme Monday](https://dev.to/ben/meme-monday-20jg)
-- [The NFL&#39;s Best Kicker is One of Us](https://dev.to/ben/the-nfls-best-kicker-is-one-of-us-5f1k)
 <!-- BLOG-POST-LIST:END -->
