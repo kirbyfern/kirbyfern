@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [We are donating $2k worth of advertising to the Open Source pledge](https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75)
 - [AWS S3 appears to be down](https://dev.to/ben/aws-s3-appears-to-be-down-4d0b)
 - [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-13hp)
-- [What&#39;s the worst codebase you&#39;ve ever worked in?](https://dev.to/ben/whats-the-worst-codebase-youve-ever-worked-in-1ndk)
 <!-- BLOG-POST-LIST:END -->
