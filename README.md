@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m building robots](https://dev.to/ben/im-building-robots-1pnd)
 - [Meme Monday](https://dev.to/ben/meme-monday-1m09)
 - [We are donating $2k worth of advertising to the Open Source pledge](https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75)
 - [AWS S3 appears to be down](https://dev.to/ben/aws-s3-appears-to-be-down-4d0b)
-- [Meme Monday](https://dev.to/ben/meme-monday-1jd5)
 <!-- BLOG-POST-LIST:END -->
