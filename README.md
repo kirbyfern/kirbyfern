@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
 - [Meme Monday](https://dev.to/ben/meme-monday-26jm)
 - [I&#39;m building robots](https://dev.to/ben/im-building-robots-1pnd)
 - [Meme Monday](https://dev.to/ben/meme-monday-1m09)
-- [We are donating $2k worth of advertising to the Open Source pledge](https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75)
 <!-- BLOG-POST-LIST:END -->
