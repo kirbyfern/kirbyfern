@@ -17,7 +17,7 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Monday Monday](https://dev.to/ben/monday-monday-2kkm)
+- [Meme Monday](https://dev.to/ben/monday-monday-2kkm)
 - [Meme Monday](https://dev.to/ben/meme-monday-1kmm)
 - [How do you take the first steps in a daunting and complicated software project?](https://dev.to/ben/how-do-you-take-the-first-steps-in-a-daunting-and-complicated-software-project-209)
 - [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-2e6k)
