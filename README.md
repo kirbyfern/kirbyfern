@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [This is a new thing: A type of quick post that doesn&#39;t show up on your profile or in notifications. It&#39;s in beta, and we have a few adjustments and improvements in the pipeline — but if you have ideas, let me know.](https://dev.to/ben/this-is-a-new-thing-a-type-of-quick-post-that-doesnt-show-up-on-your-profile-or-in-notifications-its-in-beta-and-we-have-a-few-adjustments-and-improvements-in-the-pipeline-but-if-you-have-ideas-let-me-know-3e6a)
 - [Meme Monday](https://dev.to/ben/meme-monday-5729)
 - [Meme Monday](https://dev.to/ben/monday-monday-2kkm)
 - [Meme Monday](https://dev.to/ben/meme-monday-1kmm)
-- [How do you take the first steps in a daunting and complicated software project?](https://dev.to/ben/how-do-you-take-the-first-steps-in-a-daunting-and-complicated-software-project-209)
 <!-- BLOG-POST-LIST:END -->
