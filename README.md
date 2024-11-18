@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-3ok)
 - [Definitely need to add linking to quickie posts, just need to do it in the right way. Probably start with linking to DEV posts as a way to share and boost stuff you like a bit more easily.](https://dev.to/ben/definitely-need-to-add-linking-to-quickie-posts-just-need-to-do-it-in-the-right-way-probably-3dkl)
 - [Just launched my first Cloudflare AI Worker using Wrangler for CLI. Pretty pleased overall.](https://dev.to/ben/just-launched-my-first-cloudflare-ai-worker-using-wrangler-for-cli-pretty-pleased-overall-3d11)
 - [Anybody upgraded to Ruby on Rails 8? Thoughts?](https://dev.to/ben/anybody-upgraded-to-ruby-on-rails-8-thoughts-1ej4)
-- [Flakey tests are the death of me](https://dev.to/ben/flakey-tests-are-the-death-of-me-2nd)
 <!-- BLOG-POST-LIST:END -->
