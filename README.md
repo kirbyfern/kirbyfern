@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Happy Monday](https://dev.to/ben/happy-monday-e6m)
 - [Meme Monday](https://dev.to/ben/meme-monday-3ad1)
 - [These days Nirvana is my go-to focus music. Not sure why that is.](https://dev.to/ben/these-days-nirvana-is-my-go-to-focus-music-not-sure-why-that-is-4epo)
 - [New DEV Feature: Following Tab](https://dev.to/devteam/new-dev-feature-following-tab-5fae)
-- [Experimenting with &quot;following&quot; tab — will give more details once more fully launched. Folks have been asking for something like this for a while.](https://dev.to/ben/experimenting-with-following-tab-will-give-more-details-once-more-fully-launched-folks-have-4noo)
 <!-- BLOG-POST-LIST:END -->
