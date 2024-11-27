@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Hang in there!](https://dev.to/ben/hang-in-there-4iog)
+- [Looking forward to this one!](https://dev.to/ben/looking-forward-to-this-one-22lb)
 - [Happy Monday](https://dev.to/ben/happy-monday-e6m)
 - [Meme Monday](https://dev.to/ben/meme-monday-3ad1)
-- [These days Nirvana is my go-to focus music. Not sure why that is.](https://dev.to/ben/these-days-nirvana-is-my-go-to-focus-music-not-sure-why-that-is-4epo)
-- [New DEV Feature: Following Tab](https://dev.to/devteam/new-dev-feature-following-tab-5fae)
 <!-- BLOG-POST-LIST:END -->
