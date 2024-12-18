@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Test post!](https://dev.to/ben/test-post-269h)
+- [If you are reading this, the site is still up.](https://dev.to/ben/if-you-are-reading-this-the-site-is-still-up-3jn8)
 - [Meme Monday](https://dev.to/ben/meme-monday-8hm)
 - [Meme Monday](https://dev.to/ben/meme-monday-kem)
-- [Just came across this while doing some hobby stuff. Really cool project from a few years ago.](https://dev.to/ben/just-came-across-this-while-doing-some-hobby-stuff-really-cool-project-from-a-few-years-ago-1kj3)
-- [Congrats everyone!](https://dev.to/ben/congrats-everyone-4epm)
 <!-- BLOG-POST-LIST:END -->
