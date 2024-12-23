@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Is there a worse feeling than *knowing* the code works and taking like two hours to get the test right?](https://dev.to/ben/is-there-a-worse-feeling-than-knowing-the-code-works-and-taking-like-two-hours-to-get-the-test-1jm7)
 - [Meme Monday](https://dev.to/ben/meme-monday-1dld)
 - [Test post!](https://dev.to/ben/test-post-269h)
 - [If you are reading this, the site is still up.](https://dev.to/ben/if-you-are-reading-this-the-site-is-still-up-3jn8)
-- [Meme Monday](https://dev.to/ben/meme-monday-8hm)
 <!-- BLOG-POST-LIST:END -->
