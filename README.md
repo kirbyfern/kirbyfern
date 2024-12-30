@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2hf)
 - [Test post.](https://dev.to/ben/test-post-1n21)
 - [Is there a worse feeling than *knowing* the code works and taking like two hours to get the test right?](https://dev.to/ben/is-there-a-worse-feeling-than-knowing-the-code-works-and-taking-like-two-hours-to-get-the-test-1jm7)
 - [Meme Monday](https://dev.to/ben/meme-monday-1dld)
-- [Test post!](https://dev.to/ben/test-post-269h)
 <!-- BLOG-POST-LIST:END -->
