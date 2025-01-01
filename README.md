@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Happy new year!](https://dev.to/ben/happy-new-year-403c)
 - [Test](https://dev.to/ben/test-5d29)
 - [Hey hey](https://dev.to/ben/hey-hey-3p82)
 - [Meme Monday](https://dev.to/ben/meme-monday-2hf)
-- [Test post.](https://dev.to/ben/test-post-1n21)
 <!-- BLOG-POST-LIST:END -->
