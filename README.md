@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Good post as always from Ryan](https://dev.to/ben/good-post-as-always-from-ryan-3mpf)
-- [I just used the git commit message of &quot;changed code&quot; 🙃](https://dev.to/ben/i-just-used-the-git-commit-message-of-changed-code-3n18)
-- [Meme Monday](https://dev.to/ben/meme-monday-179k)
-- [Hello future world](https://dev.to/ben/hello-future-world-4p9d)
+- [Another test :&rpar;](https://dev.to/ben/another-test--38nf)
+- [Another test post](https://dev.to/ben/another-test-post-2o9)
+- [Future is near](https://dev.to/ben/future-is-near-3efj)
+- [Test!](https://dev.to/ben/test-5f80)
 <!-- BLOG-POST-LIST:END -->
