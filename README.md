@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Future is near](https://dev.to/ben/future-is-near-3efj)
+- [Testing!](https://dev.to/ben/testing-1pgh)
 - [Another test :&rpar;](https://dev.to/ben/another-test--38nf)
-- [Test](https://dev.to/ben/test-5cj6)
-- [Testing Future](https://dev.to/ben/testing-future-11f3)
+- [Testing!](https://dev.to/ben/testing-240)
+- [Hello future world](https://dev.to/ben/hello-future-world-4p9d)
 <!-- BLOG-POST-LIST:END -->
