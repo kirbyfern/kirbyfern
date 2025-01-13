@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Testing Future](https://dev.to/ben/testing-future-11f3)
-- [Another test post](https://dev.to/ben/another-test-post-2o9)
+- [Test post](https://dev.to/ben/test-post-31k2)
+- [Future is near](https://dev.to/ben/future-is-near-3efj)
 - [Another test :&rpar;](https://dev.to/ben/another-test--38nf)
-- [Testing!](https://dev.to/ben/testing-240)
+- [Testing!](https://dev.to/ben/testing-1pgh)
 <!-- BLOG-POST-LIST:END -->
