@@ -18,7 +18,7 @@
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
 - [Meme Monday](https://dev.to/ben/meme-monday-38kh)
-- [Testing!](https://dev.to/ben/testing-240)
-- [Testing!](https://dev.to/ben/testing-1pgh)
 - [Another test post](https://dev.to/ben/another-test-post-2o9)
+- [Future is near](https://dev.to/ben/future-is-near-3efj)
+- [Another test :&rpar;](https://dev.to/ben/another-test--38nf)
 <!-- BLOG-POST-LIST:END -->
