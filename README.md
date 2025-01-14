@@ -20,5 +20,5 @@
 - [Hello future](https://dev.to/ben/hello-future-3pg3)
 - [Meme Monday](https://dev.to/ben/meme-monday-38kh)
 - [Another test post](https://dev.to/ben/another-test-post-2o9)
-- [Testing!](https://dev.to/ben/testing-240)
+- [Test](https://dev.to/ben/test-5cj6)
 <!-- BLOG-POST-LIST:END -->
