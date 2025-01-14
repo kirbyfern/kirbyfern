@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Humanoid Robot](https://dev.to/ben/open-source-humanoid-robot-35ki)
 - [Hello future](https://dev.to/ben/hello-future-3pg3)
 - [Meme Monday](https://dev.to/ben/meme-monday-38kh)
-- [Another test :&rpar;](https://dev.to/ben/another-test--38nf)
-- [Test](https://dev.to/ben/test-5cj6)
+- [Another test post](https://dev.to/ben/another-test-post-2o9)
 <!-- BLOG-POST-LIST:END -->
