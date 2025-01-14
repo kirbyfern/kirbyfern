@@ -19,6 +19,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Hello future](https://dev.to/ben/hello-future-3pg3)
 - [Meme Monday](https://dev.to/ben/meme-monday-38kh)
-- [Testing Future](https://dev.to/ben/testing-future-11f3)
-- [Testing!](https://dev.to/ben/testing-240)
+- [Test](https://dev.to/ben/test-5cj6)
+- [Hello future world](https://dev.to/ben/hello-future-world-4p9d)
 <!-- BLOG-POST-LIST:END -->
