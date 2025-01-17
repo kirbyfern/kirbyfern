@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
 - [Welcome Thread - v1](https://dev.to/ben/welcome-thread-v1-157n)
 - [Open Source Humanoid Robot](https://dev.to/ben/open-source-humanoid-robot-35ki)
 - [Hello future](https://dev.to/ben/hello-future-3pg3)
-- [Meme Monday](https://dev.to/ben/meme-monday-38kh)
 <!-- BLOG-POST-LIST:END -->
