@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [The New Generalist&#39;s Paradox](https://dev.to/ben/the-new-generalists-paradox-28df)
+- [Meme Monday](https://dev.to/ben/meme-monday-521c)
 - [Is working with AI a job skill?](https://dev.to/ben/is-working-with-ai-a-job-skill-5an2)
 - [Welcome Thread - v1](https://dev.to/ben/welcome-thread-v1-157n)
-- [Open Source Humanoid Robot](https://dev.to/ben/open-source-humanoid-robot-35ki)
-- [Hello future](https://dev.to/ben/hello-future-3pg3)
 <!-- BLOG-POST-LIST:END -->
