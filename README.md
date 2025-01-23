@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [OpenAi Releases Operator](https://dev.to/ben/openai-releases-operator-5gme)
 - [Oldie but goodie](https://dev.to/ben/oldie-but-goodie-1kdc)
 - [Silk Road Founder Ross Ulbricht Pardoned](https://dev.to/ben/silk-road-founder-ross-ulbricht-pardoned-4e7j)
 - [The New Generalist&#39;s Paradox](https://dev.to/ben/the-new-generalists-paradox-28df)
-- [Meme Monday](https://dev.to/ben/meme-monday-521c)
 <!-- BLOG-POST-LIST:END -->
