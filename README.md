@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Deepseek R1 vs OpenAI o1](https://dev.to/ben/deepseek-r1-vs-openai-o1-2o0m)
 - [OpenAi Releases Operator](https://dev.to/ben/openai-releases-operator-5gme)
 - [Oldie but goodie](https://dev.to/ben/oldie-but-goodie-1kdc)
 - [Silk Road Founder Ross Ulbricht Pardoned](https://dev.to/ben/silk-road-founder-ross-ulbricht-pardoned-4e7j)
-- [The New Generalist&#39;s Paradox](https://dev.to/ben/the-new-generalists-paradox-28df)
 <!-- BLOG-POST-LIST:END -->
