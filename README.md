@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek releases new image model family](https://dev.to/ben/deepseek-releases-new-image-model-family-2en0)
 - [Deepseek Market Impact — Monday Jan 27](https://dev.to/ben/deepseek-market-impact-2g2n)
 - [Meme Monday](https://dev.to/ben/meme-monday-419k)
 - [Deepseek R1 vs OpenAI o1](https://dev.to/ben/deepseek-r1-vs-openai-o1-2o0m)
-- [OpenAi Releases Operator](https://dev.to/ben/openai-releases-operator-5gme)
 <!-- BLOG-POST-LIST:END -->
