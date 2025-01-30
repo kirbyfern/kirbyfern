@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Pretty much all the most popular DEV posts this week are DeepSeek-related](https://dev.to/ben/pretty-much-all-the-most-popular-dev-posts-this-week-are-deepseek-related-3cbh)
 - [[Boost]](https://dev.to/ben/-49jb)
 - [[Boost]](https://dev.to/ben/-3ei6)
 - [Interesting project](https://dev.to/ben/interesting-project-11db)
-- [[Boost]](https://dev.to/ben/-2j1)
 <!-- BLOG-POST-LIST:END -->
