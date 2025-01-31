@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Transparency and trust discussion](https://dev.to/ben/transparency-and-trust-discussion-3d0e)
 - [The Future of...](https://dev.to/devteam/the-future-of-4ml4)
 - [[Boost]](https://dev.to/ben/-36dm)
 - [Thoughts?](https://dev.to/ben/thoughts-2bfg)
-- [Pretty much all the most popular DEV posts this week are DeepSeek-related](https://dev.to/ben/pretty-much-all-the-most-popular-dev-posts-this-week-are-deepseek-related-3cbh)
 <!-- BLOG-POST-LIST:END -->
