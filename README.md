@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-500o)
 - [Transparency and trust discussion](https://dev.to/ben/transparency-and-trust-discussion-3d0e)
 - [The Future of...](https://dev.to/devteam/the-future-of-4ml4)
 - [[Boost]](https://dev.to/ben/-36dm)
-- [Thoughts?](https://dev.to/ben/thoughts-2bfg)
 <!-- BLOG-POST-LIST:END -->
