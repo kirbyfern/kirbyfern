@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [I needed to open the terminal in VSCode but I forgot the command — which I do all the time but by muscle memory. Thinking about it just made it harder. I had to turn my focus elsewhere and when I came back I could do it by muscle memory!](https://dev.to/ben/i-needed-to-open-the-terminal-in-vscode-but-i-forgot-the-command-which-i-do-all-the-time-but-by-2429)
 - [Meme Monday](https://dev.to/ben/meme-monday-4efm)
 - [[Boost]](https://dev.to/ben/-500o)
 - [Transparency and trust discussion](https://dev.to/ben/transparency-and-trust-discussion-3d0e)
-- [The Future of...](https://dev.to/devteam/the-future-of-4ml4)
 <!-- BLOG-POST-LIST:END -->
