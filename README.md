@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [🎵 It&#39;s Pi Day, Pi Day, gotta get down on Pi Day 🎵](https://dev.to/ben/its-pi-day-pi-day-gotta-get-down-on-pi-day-7d1)
 - [Meme Monday](https://dev.to/ben/meme-monday-3p2n)
 - [Really liking the challenge posts so far!](https://dev.to/ben/really-liking-the-challenge-posts-so-far-195o)
 - [Meme Monday](https://dev.to/ben/meme-monday-5646)
-- [GPT 4.5 Release](https://dev.to/ben/gpt-45-release-11i2)
 <!-- BLOG-POST-LIST:END -->
