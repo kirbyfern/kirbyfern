@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-1dna)
 - [Currently vibe coding](https://dev.to/ben/currently-vibe-coding-2l4p)
 - [Meme Monday](https://dev.to/ben/meme-monday-2bg3)
 - [🎵 It&#39;s Pi Day, Pi Day, gotta get down on Pi Day 🎵](https://dev.to/ben/its-pi-day-pi-day-gotta-get-down-on-pi-day-7d1)
-- [Meme Monday](https://dev.to/ben/meme-monday-3p2n)
 <!-- BLOG-POST-LIST:END -->
