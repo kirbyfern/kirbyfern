@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [DUMB DEV is ad-free](https://dev.to/ben/dumb-dev-is-ad-free-237j)
+- [Dumb](https://dev.to/ben/dumb-2cib)
+- [php](https://dev.to/ben/php-3clo)
 - [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
-- [Where it all happens](https://dev.to/ben/where-it-all-happens-2dk4)
-- [But why?](https://dev.to/ben/but-why-4mho)
-- [Vibe coding](https://dev.to/ben/vibe-coding-af4)
 <!-- BLOG-POST-LIST:END -->
