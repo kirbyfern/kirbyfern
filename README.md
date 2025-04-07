@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday live on DEV](https://dev.to/ben/meme-monday-live-on-dev-k16)
+- [Meme Monday](https://dev.to/ben/meme-monday-9dh)
 - [DUMB DEV is ad-free](https://dev.to/ben/dumb-dev-is-ad-free-237j)
 - [Dumb](https://dev.to/ben/dumb-2cib)
-- [php](https://dev.to/ben/php-3clo)
-- [Introducing &quot;DUMB DEV&quot;](https://dev.to/devteam/introducing-dumb-dev-5hjl)
 <!-- BLOG-POST-LIST:END -->
