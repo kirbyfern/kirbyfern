@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [A new space for discussions surrounding the Forem core open source project](https://dev.to/devteam/a-new-space-for-discussions-surrounding-the-forem-core-open-source-project-3o54)
 - [May the 5th be with you](https://dev.to/ben/may-the-5th-be-with-you-34j4)
 - [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
 - [Meme Monday](https://dev.to/ben/meme-monday-1ik7)
-- [Things from the internet](https://dev.to/ben/things-from-the-internet-8bk)
 <!-- BLOG-POST-LIST:END -->
