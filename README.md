@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Listings&quot; have been fully removed from Forem Core](https://dev.to/ben/listings-have-been-fully-removed-from-forem-core-51jl)
 - [Meme Monday](https://dev.to/ben/meme-monday-41nh)
 - [A new space for discussions surrounding the Forem core open source project](https://dev.to/devteam/a-new-space-for-discussions-surrounding-the-forem-core-open-source-project-3o54)
 - [May the 5th be with you](https://dev.to/ben/may-the-5th-be-with-you-34j4)
-- [SOFTWARE DEVELOPMENT MEMES](https://dev.to/ben/software-development-memes-44nk)
 <!-- BLOG-POST-LIST:END -->
