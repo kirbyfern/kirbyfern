@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [New bandcamp embed is live](https://dev.to/ben/new-bandcamp-embed-is-live-5g9e)
+- [Testing Bandcamp embed](https://dev.to/ben/testing-bandcamp-embed-3p87)
 - [Meme Monday](https://dev.to/ben/meme-monday-114b)
 - [Heroku has been having major platform issues today](https://dev.to/ben/heroku-has-been-having-major-platform-issues-today-3p9e)
-- [Meme Monday](https://dev.to/ben/meme-monday-g2o)
-- [Moving billboard event counting into a background job](https://dev.to/ben/moving-billboard-event-counting-into-a-background-job-85c)
 <!-- BLOG-POST-LIST:END -->
