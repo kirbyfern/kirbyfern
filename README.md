@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
 - [New bandcamp embed is live](https://dev.to/ben/new-bandcamp-embed-is-live-5g9e)
 - [Testing Bandcamp embed](https://dev.to/ben/testing-bandcamp-embed-3p87)
 - [Meme Monday](https://dev.to/ben/meme-monday-114b)
-- [Heroku has been having major platform issues today](https://dev.to/ben/heroku-has-been-having-major-platform-issues-today-3p9e)
 <!-- BLOG-POST-LIST:END -->
