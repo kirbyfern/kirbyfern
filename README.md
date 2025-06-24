@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Let&#39;s watch!](https://dev.to/ben/lets-watch-2gi7)
 - [This is a test post](https://dev.to/ben/this-is-a-test-post-405h)
 - [Test testing!](https://dev.to/ben/test-testing-45jl)
 - [Meme Monday](https://dev.to/ben/meme-monday-jg8)
-- [Evolving Our Infrastructure: Why We Moved from Heroku Postgres to Neon](https://dev.to/devteam/evolving-our-infrastructure-why-we-moved-from-heroku-postgres-to-neon-1928)
 <!-- BLOG-POST-LIST:END -->
