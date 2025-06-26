@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Video test](https://dev.to/ben/embed-test-3fmg)
 - [Doing database stuff](https://dev.to/ben/doing-database-stuff-1k4e)
 - [Let&#39;s watch!](https://dev.to/ben/lets-watch-2gi7)
 - [This is a test post](https://dev.to/ben/this-is-a-test-post-405h)
-- [Test testing!](https://dev.to/ben/test-testing-45jl)
 <!-- BLOG-POST-LIST:END -->
