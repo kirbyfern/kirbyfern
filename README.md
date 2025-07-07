@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [video_source_url in the API can now accept a youtube.com url](https://dev.to/ben/videosourceurl-in-the-api-can-now-accept-a-youtubecom-url-4p4d)
 - [Meme Monday](https://dev.to/ben/meme-monday-4ch8)
 - [Meme Monday](https://dev.to/ben/meme-monday-118b)
 - [Video test](https://dev.to/ben/embed-test-3fmg)
-- [Doing database stuff](https://dev.to/ben/doing-database-stuff-1k4e)
 <!-- BLOG-POST-LIST:END -->
