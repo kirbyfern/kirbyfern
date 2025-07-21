@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Working on the sidebar that connects subforems — close to making this more of a first-class feature.](https://dev.to/ben/working-on-the-sidebar-that-connects-subforems-close-to-making-this-more-of-a-first-class-feature-42jn)
+- [Meme Monday](https://dev.to/ben/meme-monday-4d1d)
 - [Expectations for gpt-5?](https://dev.to/ben/expectations-for-gpt-5-313o)
 - [Meme Monday](https://dev.to/ben/meme-monday-28o3)
-- [F1 was so much fun. Not a *great* movie, but a must-watch in iMax 🙂](https://dev.to/ben/f1-was-so-much-fun-not-a-great-movie-but-a-must-watch-in-imax-3l68)
-- [video_source_url in the API can now accept a youtube.com url](https://dev.to/ben/videosourceurl-in-the-api-can-now-accept-a-youtubecom-url-4p4d)
 <!-- BLOG-POST-LIST:END -->
