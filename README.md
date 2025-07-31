@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [I&#39;m very excited about Naked Gun](https://dev.to/ben/im-very-excited-about-naked-gun-480n)
 - [Getting the sidebar live soon for intra-forem navigation](https://dev.to/ben/getting-the-sidebar-live-soon-for-intra-forem-navigation-39i8)
 - [Meme Monday](https://dev.to/ben/meme-monday-3pe5)
 - [me rn](https://dev.to/ben/me-rn-1mc4)
-- [Working on the sidebar that connects subforems — close to making this more of a first-class feature.](https://dev.to/ben/working-on-the-sidebar-that-connects-subforems-close-to-making-this-more-of-a-first-class-feature-42jn)
 <!-- BLOG-POST-LIST:END -->
