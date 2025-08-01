@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Oh boy, let&#39;s see how this goes :&rpar; — Added a Meme monday re-post bot to get things rolling.](https://dev.to/ben/oh-boy-lets-see-how-this-goes-added-a-meme-monday-re-post-bot-to-get-things-rolling-3ip)
+- [API docs are getting slightly out-of-date, need to make sure all new attributes &lpar;videos etc&rpar; are added](https://dev.to/ben/api-docs-are-getting-slightly-out-of-date-need-to-make-sure-all-new-attributes-videos-etc-are-4cgn)
 - [Taking a close look at this to consider making it official.](https://dev.to/ben/taking-a-close-look-at-this-to-consider-making-it-official-agi)
 - [I&#39;m very excited about Naked Gun](https://dev.to/ben/im-very-excited-about-naked-gun-480n)
-- [Getting the sidebar live soon for intra-forem navigation](https://dev.to/ben/getting-the-sidebar-live-soon-for-intra-forem-navigation-39i8)
-- [Meme Monday](https://dev.to/ben/meme-monday-3pe5)
 <!-- BLOG-POST-LIST:END -->
