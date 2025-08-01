@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Taking a close look at this to consider making it official.](https://dev.to/ben/taking-a-close-look-at-this-to-consider-making-it-official-agi)
 - [I&#39;m very excited about Naked Gun](https://dev.to/ben/im-very-excited-about-naked-gun-480n)
 - [Getting the sidebar live soon for intra-forem navigation](https://dev.to/ben/getting-the-sidebar-live-soon-for-intra-forem-navigation-39i8)
 - [Meme Monday](https://dev.to/ben/meme-monday-3pe5)
-- [me rn](https://dev.to/ben/me-rn-1mc4)
 <!-- BLOG-POST-LIST:END -->
