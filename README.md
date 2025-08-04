@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-34k4)
+- [We&#39;re removing the new sidebar from the compose flow to preserve the minimalism there.](https://dev.to/ben/were-removing-the-new-sidebar-from-the-compose-flow-to-preserve-the-minimalism-there-4ja5)
+- [[Boost]](https://dev.to/ben/-11g9)
 - [[Boost]](https://dev.to/ben/-48l3)
-- [Oh boy, let&#39;s see how this goes :&rpar; — Added a Meme monday re-post bot to get things rolling.](https://dev.to/ben/oh-boy-lets-see-how-this-goes-added-a-meme-monday-re-post-bot-to-get-things-rolling-3ip)
-- [API docs are getting slightly out-of-date, need to make sure all new attributes &lpar;videos etc&rpar; are added](https://dev.to/ben/api-docs-are-getting-slightly-out-of-date-need-to-make-sure-all-new-attributes-videos-etc-are-4cgn)
-- [Taking a close look at this to consider making it official.](https://dev.to/ben/taking-a-close-look-at-this-to-consider-making-it-official-agi)
 <!-- BLOG-POST-LIST:END -->
