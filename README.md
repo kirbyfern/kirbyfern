@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Test post](https://dev.to/ben/test-post-53ee)
 - [Folks here will like this](https://dev.to/ben/folks-here-will-like-this-1f12)
 - [Test post with upgraded context note](https://dev.to/ben/test-post-with-upgraded-context-note-17k4)
 - [Test Survey](https://dev.to/ben/test-survey-1nfg)
-- [🤨](https://dev.to/ben/-2ljj)
 <!-- BLOG-POST-LIST:END -->
