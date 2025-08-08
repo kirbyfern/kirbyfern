@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-55h)
 - [[Boost]](https://dev.to/ben/-1m7m)
 - [Absolutely loving the new season of King of the Hill. Probably one of the first nostalgia reboots like this I&#39;ve ever liked. Genuinely picked up where the old show left off.](https://dev.to/ben/absolutely-loving-the-new-season-of-king-of-the-hill-probably-one-of-the-first-nostalgia-reboots-39b0)
 - [Test post](https://dev.to/ben/test-post-53ee)
-- [Folks here will like this](https://dev.to/ben/folks-here-will-like-this-1f12)
 <!-- BLOG-POST-LIST:END -->
