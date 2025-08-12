@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-38nh)
+- [All work and no play makes Cursor a dull boy](https://dev.to/ben/all-work-and-no-play-makes-cursor-a-dull-boy-536f)
 - [Test](https://dev.to/ben/test-322n)
 - [[Boost]](https://dev.to/ben/-5bjb)
-- [Meme Monday](https://dev.to/ben/meme-monday-4oa5)
-- [[Boost]](https://dev.to/ben/-55h)
 <!-- BLOG-POST-LIST:END -->
