@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Making progress on subforem editing, just added subforem moderator role.](https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l)
 - [Meme Monday](https://dev.to/ben/meme-monday-2ido)
 - [[Boost]](https://dev.to/ben/-38nh)
 - [All work and no play makes Cursor a dull boy](https://dev.to/ben/all-work-and-no-play-makes-cursor-a-dull-boy-536f)
-- [Test](https://dev.to/ben/test-322n)
 <!-- BLOG-POST-LIST:END -->
