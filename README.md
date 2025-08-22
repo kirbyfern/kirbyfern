@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [test test test](https://dev.to/ben/test-test-test-3dag)
+- [We&#39;ll try to zero out the open pull requests inbox soon to make things more organized and get a fresh start.](https://dev.to/ben/well-try-to-zero-out-the-open-pull-requests-inbox-soon-to-make-things-more-organized-and-get-a-4ieh)
 - [Explicit transparent bot accounts will soon be a thing — which will be a small part of moderating out AI slop. Transparently automated content has a place, but it should be clear when it occurs. https://github.com/forem/forem/pull/22232](https://dev.to/ben/explicit-transparent-bot-accounts-will-soon-be-a-thing-which-will-be-a-small-part-of-moderating-2nfc)
 - [[Boost]](https://dev.to/ben/-3poc)
-- [We now allow links in quickies. Any link included will show up in the post. This is the merged PR: https://github.com/forem/forem/pull/22229](https://dev.to/ben/we-now-allow-links-in-quickies-any-link-included-will-show-up-in-the-post-this-is-the-merged-pr-50kk)
-- [Let&#39;s see if this works https://dev.to](https://dev.to/ben/lets-see-if-this-works-httpsdevto-42d9)
 <!-- BLOG-POST-LIST:END -->
