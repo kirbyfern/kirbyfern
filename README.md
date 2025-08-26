@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [When is the next Gemini model coming! https://x.com/OfficialLoganK/status/1960114265810997616](https://dev.to/ben/when-is-the-next-gemini-model-coming-httpsxcomofficiallogankstatus1960114265810997616-4kdc)
+- [102 files changed in this PR, Portuguese i18n files are now integrated into Forem https://github.com/forem/forem/pull/22243 — still some general translation bugs, but making strides!](https://dev.to/ben/102-files-changed-in-this-pr-portuguese-i18n-files-are-now-integrated-into-forem-ie1)
+- [olá mundo](https://dev.to/ben/ola-mundo-4191)
 - [Meme Monday](https://dev.to/ben/meme-monday-48a3)
-- [[Boost]](https://dev.to/ben/-1bp4)
-- [test test test](https://dev.to/ben/test-test-test-3dag)
-- [We&#39;ll try to zero out the open pull requests inbox soon to make things more organized and get a fresh start.](https://dev.to/ben/well-try-to-zero-out-the-open-pull-requests-inbox-soon-to-make-things-more-organized-and-get-a-4ieh)
 <!-- BLOG-POST-LIST:END -->
