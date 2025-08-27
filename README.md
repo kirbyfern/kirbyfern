@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Sidebar now properly scrolls &lpar;important when there are more total forems&rpar;, and there is a `+` now. Next step will be adding a survey to accept ideas about the next subforems. Eventually members will be able to spin these up themselves.](https://dev.to/ben/sidebar-now-properly-scrolls-important-when-there-are-more-total-forems-and-there-is-a--4ien)
+- [Survey functionality mostly finalized, will announce soon to the broader community.](https://dev.to/ben/survey-functionality-mostly-finalized-will-announce-soon-to-the-broader-community-3kd7)
 - [[Boost]](https://dev.to/ben/-2ob7)
 - [[Boost]](https://dev.to/ben/-3d2p)
-- [NX Compromised to Steal Wallets and Credentials https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/](https://dev.to/ben/nx-compromised-to-steal-wallets-and-credentials-5goh)
-- [Still time to get your questions in!](https://dev.to/ben/still-time-to-get-your-questions-in-5706)
 <!-- BLOG-POST-LIST:END -->
