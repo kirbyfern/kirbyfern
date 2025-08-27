@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-2ob7)
+- [[Boost]](https://dev.to/ben/-3d2p)
+- [NX Compromised to Steal Wallets and Credentials https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/](https://dev.to/ben/nx-compromised-to-steal-wallets-and-credentials-5goh)
 - [Still time to get your questions in!](https://dev.to/ben/still-time-to-get-your-questions-in-5706)
-- [When is the next Gemini model coming! https://x.com/OfficialLoganK/status/1960114265810997616](https://dev.to/ben/when-is-the-next-gemini-model-coming-httpsxcomofficiallogankstatus1960114265810997616-4kdc)
-- [102 files changed in this PR, Portuguese i18n files are now integrated into Forem https://github.com/forem/forem/pull/22243 — still some general translation bugs, but making strides!](https://dev.to/ben/102-files-changed-in-this-pr-portuguese-i18n-files-are-now-integrated-into-forem-ie1)
-- [olá mundo](https://dev.to/ben/ola-mundo-4191)
 <!-- BLOG-POST-LIST:END -->
