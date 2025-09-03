@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Full screen POC](https://dev.to/ben/full-screen-poc-4he7)
 - [Cursor telling me &quot;That&#39;s a brilliant idea&quot; seems like a bit much](https://dev.to/ben/cursor-telling-me-thats-a-brilliant-idea-seems-like-a-bit-much-2bkh)
 - [[Boost]](https://dev.to/ben/-1j5d)
 - [[Boost]](https://dev.to/ben/-45a8)
-- [This is a test!!](https://dev.to/ben/this-is-a-test-596k)
 <!-- BLOG-POST-LIST:END -->
