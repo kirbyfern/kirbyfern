@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-3124)
+- [I&#39;m in Halifax, Nova Scotia where I grew up. Good to be home!](https://dev.to/ben/im-in-halifax-nova-scotia-where-i-grew-up-good-to-be-home-5efa)
 - [Meme Monday](https://dev.to/ben/meme-monday-1546)
 - [This is just a test](https://dev.to/ben/this-is-just-a-test-1b12)
-- [[Boost]](https://dev.to/ben/-3p32)
-- [Was great to see this PR from the Ona folks in the project to help get our configuration working better https://github.com/forem/forem/pull/22307 Ona &lpar;formerly GitPod&rpar; continues to be a really really interesting player in development productivity](https://dev.to/ben/was-great-to-see-this-pr-from-the-ona-folks-in-the-project-to-help-get-our-configuration-working-5553)
 <!-- BLOG-POST-LIST:END -->
