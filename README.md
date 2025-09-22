@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-291d)
 - [[Boost]](https://dev.to/ben/-39gh)
 - [It&#39;s my birthday](https://dev.to/ben/its-my-birthday-3ppl)
 - [[Boost]](https://dev.to/ben/-1gbo)
-- [[Boost]](https://dev.to/ben/-3124)
 <!-- BLOG-POST-LIST:END -->
