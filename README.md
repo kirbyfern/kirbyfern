@@ -17,6 +17,7 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [It&#39;s amazing how quickly you can learn a subject when the servers are on fire and you need to learn it.](https://dev.to/ben/its-amazing-how-quickly-you-can-learn-a-subject-when-the-servers-are-on-fire-and-you-need-to-learn-3abh)
 - [Nothing like waking up to a bot attack.
 
 Can&#39;t they at least wait til I&#39;ve had my coffee?](https://dev.to/ben/nothing-like-waking-up-to-a-bot-attackcant-they-at-least-wait-til-ive-had-my-coffee-228j)
@@ -24,5 +25,4 @@ Can&#39;t they at least wait til I&#39;ve had my coffee?](https://dev.to/ben/not
 
 Just like this.](https://dev.to/ben/you-can-now-put-line-breaks-in-quickie-postsjust-like-ths-5g82)
 - [I am so not looking forward to the discourse leading up to next Ryder Cup. The tournament itself is great, but the discussion is grating.](https://dev.to/ben/i-am-so-not-looking-forward-to-the-discourse-leading-up-to-next-ryder-cup-the-tournament-itself-is-47i4)
-- [Meme Monday](https://dev.to/ben/meme-monday-50jm)
 <!-- BLOG-POST-LIST:END -->
