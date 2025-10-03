@@ -17,10 +17,10 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Congrats everyone, there were some truly epic creations here.](https://dev.to/ben/congrats-everyone-there-were-some-truly-epic-creations-here-nj6)
-- [Very cute game!](https://dev.to/ben/very-cute-game-298a)
-- [It&#39;s amazing how quickly you can learn a subject when the servers are on fire and you need to learn it.](https://dev.to/ben/its-amazing-how-quickly-you-can-learn-a-subject-when-the-servers-are-on-fire-and-you-need-to-learn-3abh)
-- [Nothing like waking up to a bot attack.
+- [I think we&#39;re definitely going to want to support inline markdown syntax like backticks for code snippets etc.
 
-Can&#39;t they at least wait til I&#39;ve had my coffee?](https://dev.to/ben/nothing-like-waking-up-to-a-bot-attackcant-they-at-least-wait-til-ive-had-my-coffee-228j)
+But we *don&#39;t* want to *fully* support markdown as we have full posts for rich content. But doing all this in a non-confusing way is key.](https://dev.to/ben/i-think-were-definitely-going-to-want-to-support-inline-markdown-syntax-like-backticks-for-code-3dj4)
+- [This was one of several recent performance improvements. Under the hood, we did some interesting memory-first caching as well.](https://dev.to/ben/this-was-one-of-several-recent-performance-improvements-under-the-hood-we-did-some-interesting-1o49)
+- [Preloading the DEV &lpar;and Forem&rpar; home feed and sidebar for substantial performance benefits](https://dev.to/devteam/preloading-the-dev-and-forem-home-feed-and-sidebar-for-substantial-performance-benefits-2cg8)
+- [Congrats everyone, there were some truly epic creations here.](https://dev.to/ben/congrats-everyone-there-were-some-truly-epic-creations-here-nj6)
 <!-- BLOG-POST-LIST:END -->
