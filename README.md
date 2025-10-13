@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-3n52)
 - [Welcome to the Golf Forem!](https://dev.to/ben/welcome-to-the-golf-forem-1ac4)
 - [Cloud Run Full Screen Test](https://dev.to/ben/cloud-run-full-screen-test-2ee0)
 - [Meme Monday](https://dev.to/ben/meme-monday-4pcg)
-- [Hindsight at Bethpage: The Principles Keegan Looked Past](https://dev.to/ben/hindsight-at-bethpage-the-principles-keegan-usa-looked-past-j8k)
 <!-- BLOG-POST-LIST:END -->
