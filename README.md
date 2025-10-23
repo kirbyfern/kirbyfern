@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Não falo português, só estou postando para dar o pontapé inicial. Por favor, perdoe qualquer erro. 😭](https://dev.to/ben/nao-falo-portugues-so-estou-postando-para-dar-o-pontape-inicial-por-favor-perdoe-qualquer-erro-3605)
+- [Tudo o que é publicado neste espaço é facilmente descoberto no ecossistema DEV, mas esperamos que este possa ser um espaço para servir mais diretamente esta comunidade!](https://dev.to/ben/tudo-o-que-e-publicado-neste-espaco-e-facilmente-descoberto-no-ecossistema-dev-mas-esperamos-que-3794)
+- [olá mundo](https://dev.to/ben/ola-mundo-3b3g)
 - [So much of what we do is building in public, but we need to use this space more to talk about it.](https://dev.to/ben/so-much-of-what-we-do-is-building-in-public-but-we-need-to-use-this-space-more-to-talk-about-it-57g5)
-- [Hoping to make improvements to quickie posts like this so they show up when appropriate in feeds &lpar;currently they sink pretty quickly&rpar; without overwhelming or taking away from the experience.](https://dev.to/ben/hoping-to-make-improvements-to-quickie-posts-like-this-so-they-show-up-when-appropriate-in-feeds-dc4)
-- [Olá pessoal, se você encontrar alguma área que não esteja traduzida ou traduzida incorretamente, sinta-se à vontade para nos informar em https://core.forem.com ou abra um problema diretamente em https://github.com/forem/forem](https://dev.to/ben/ola-pessoal-se-voce-encontrar-alguma-area-que-nao-esteja-traduzida-ou-traduzida-incorretamente-3jd2)
-- [Juuuust about getting too cold for golf around here](https://dev.to/ben/juuuust-about-getting-too-cold-for-golf-around-here-318g)
 <!-- BLOG-POST-LIST:END -->
