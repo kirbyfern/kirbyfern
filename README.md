@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [So much of what we do is building in public, but we need to use this space more to talk about it.](https://dev.to/ben/so-much-of-what-we-do-is-building-in-public-but-we-need-to-use-this-space-more-to-talk-about-it-57g5)
+- [Hoping to make improvements to quickie posts like this so they show up when appropriate in feeds &lpar;currently they sink pretty quickly&rpar; without overwhelming or taking away from the experience.](https://dev.to/ben/hoping-to-make-improvements-to-quickie-posts-like-this-so-they-show-up-when-appropriate-in-feeds-dc4)
+- [Olá pessoal, se você encontrar alguma área que não esteja traduzida ou traduzida incorretamente, sinta-se à vontade para nos informar em https://core.forem.com ou abra um problema diretamente em https://github.com/forem/forem](https://dev.to/ben/ola-pessoal-se-voce-encontrar-alguma-area-que-nao-esteja-traduzida-ou-traduzida-incorretamente-3jd2)
 - [Juuuust about getting too cold for golf around here](https://dev.to/ben/juuuust-about-getting-too-cold-for-golf-around-here-318g)
-- [[Boost]](https://dev.to/ben/-1l4n)
-- [Meme Monday](https://dev.to/ben/meme-monday-1d08)
-- [AWS ain&#39;t doing so well](https://dev.to/ben/aws-aint-doing-so-well-oa6)
 <!-- BLOG-POST-LIST:END -->
