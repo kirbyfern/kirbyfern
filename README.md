@@ -17,10 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [How the group behind me expects me to play https://www.youtube.com/watch?v=ao00KISKV2Q](https://dev.to/ben/how-the-group-behind-me-expects-me-to-play-httpswwwyoutubecomwatchvao00kiskv2q-1a3p)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-3h9l)
 - [[Boost]](https://dev.to/ben/-3o7n)
 - [Meme Monday](https://dev.to/ben/meme-monday-o5g)
-- [&gt; Deploy, Scale, and Own Your Web Apps. No Vendor Lock-In.
-
-Honestly that&#39;s a pretty incredible value proposition!](https://dev.to/ben/-deploy-scale-and-own-your-web-apps-no-vendor-lock-in-honestly-thats-a-pretty-incredible-5eg)
-- [We need to adjust quickie posts to properly not count full URLs for characters. I know Twitter traditionally capped these at 17 chars regardless of length — we&#39;ll want to do something similar along those lines.](https://dev.to/ben/we-need-to-adjust-quickie-posts-to-properly-not-count-full-urls-for-characters-i-know-twitter-j76)
 <!-- BLOG-POST-LIST:END -->
