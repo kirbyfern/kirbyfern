@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Hopefully releasing a new Forem app with lots of little fixes in the next couple days](https://dev.to/ben/hopefully-releasing-a-new-forem-app-with-lots-of-little-fixes-in-the-next-couple-days-4o0)
+- [Word to the wise](https://dev.to/ben/word-to-the-wise-3ml5)
 - [How the group behind me expects me to play https://www.youtube.com/watch?v=ao00KISKV2Q](https://dev.to/ben/how-the-group-behind-me-expects-me-to-play-httpswwwyoutubecomwatchvao00kiskv2q-1a3p)
 - [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-3h9l)
-- [[Boost]](https://dev.to/ben/-3o7n)
-- [Meme Monday](https://dev.to/ben/meme-monday-o5g)
 <!-- BLOG-POST-LIST:END -->
