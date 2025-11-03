@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-459f)
 - [[Boost]](https://dev.to/ben/-4gj8)
 - [New Music Monday Threads 🎵🎶](https://dev.to/ben/new-music-monday-threads-3321)
 - [Meme Monday](https://dev.to/ben/meme-monday-4dha)
-- [[Boost]](https://dev.to/ben/-4gae)
 <!-- BLOG-POST-LIST:END -->
