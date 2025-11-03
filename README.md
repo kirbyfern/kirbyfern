@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Another test!](https://dev.to/ben/another-test-cjc)
 - [Next version of mobile app is going to be a nice upgrade](https://dev.to/ben/next-version-of-mobile-app-is-going-to-be-a-nice-upgrade-369i)
 - [Test 2](https://dev.to/ben/test-2-i2f)
 - [Test!](https://dev.to/ben/test-3eff)
-- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-459f)
 <!-- BLOG-POST-LIST:END -->
