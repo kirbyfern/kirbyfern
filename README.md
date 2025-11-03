@@ -17,10 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-4gj8)
+- [New Music Monday Threads 🎵🎶](https://dev.to/ben/new-music-monday-threads-3321)
 - [Meme Monday](https://dev.to/ben/meme-monday-4dha)
 - [[Boost]](https://dev.to/ben/-4gae)
-- [Old course getting some changes
-
-https://www.forbes.com/sites/mikefore/2025/10/31/old-course-at-st-andrews-slated-for-enhancements-prior-to-2027-open/](https://dev.to/ben/old-course-getting-some-changes-4mcj)
-- [Lots of momentum this week!](https://dev.to/ben/lots-of-momentum-this-week-10ph)
 <!-- BLOG-POST-LIST:END -->
