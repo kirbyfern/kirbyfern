@@ -17,10 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [[Boost]](https://dev.to/ben/-581b)
+- [I am absolutely right!](https://dev.to/ben/i-am-absolutely-right-42da)
 - [Anybody else getting 500 errors on GitHub at all? Don&#39;t see anything on their status page.](https://dev.to/ben/anybody-else-getting-500-errors-on-github-at-all-dont-see-anything-on-their-status-page-165d)
 - [Meme Monday](https://dev.to/ben/meme-monday-1jne)
-- [Stream of small fixes — this week&#39;s repo recap is going to be full!](https://dev.to/ben/stream-of-small-fixes-this-weeks-repo-recap-is-going-to-be-full-h30)
-- [Loool
-
-https://www.pcgamer.com/software/security/post-heist-reports-reveal-the-password-for-the-louvres-video-surveillance-was-louvre-and-suddenly-the-dumpster-tier-opsec-of-videogame-npcs-seems-a-lot-less-absurd/](https://dev.to/ben/loool-1200)
 <!-- BLOG-POST-LIST:END -->
