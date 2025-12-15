@@ -17,10 +17,16 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-2n5c)
-- [Meme Monday](https://dev.to/ben/meme-monday-5ggc)
+- [Testing
+
+https://experimental.forem.com/ben/testing-morehttpsopenaicomindexthe-state-of-enterprise-ai-2025-report-4fm9](https://dev.to/ben/testing-48g0)
+- [testing more
+
+https://openai.com/index/the-state-of-enterprise-ai-2025-report/](https://dev.to/ben/testing-morehttpsopenaicomindexthe-state-of-enterprise-ai-2025-report-4fm9)
 - [Test
 
-https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
-- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
+https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-4f7d)
+- [Testing
+
+https://www.kickstarter.com/projects/aohi/aohi-280w-gan-desktop-chargerthe-ultimate-6-port-power-hub?ref=section-homepage-view-more-discovery-p1&amp;amp;category_id=Q2F0ZWdvcnktMzM3](https://dev.to/ben/testing-4dhj)
 <!-- BLOG-POST-LIST:END -->
