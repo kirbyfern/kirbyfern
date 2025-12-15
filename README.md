@@ -17,10 +17,10 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2n5c)
 - [Meme Monday](https://dev.to/ben/meme-monday-5ggc)
 - [Test
 
 https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
 - [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
-- [Meme Monday](https://dev.to/ben/meme-monday-4c68)
 <!-- BLOG-POST-LIST:END -->
