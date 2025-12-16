@@ -17,14 +17,14 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Testing 
+
+https://nfl.com](https://dev.to/ben/testing-httpsnflcom-5fdd)
+- [Testing!
+
+https://google.com](https://dev.to/ben/testinghttpsgooglecom-1nkl)
 - [Very well done!](https://dev.to/ben/very-well-done-3dkl)
 - [Testing
 
 https://experimental.forem.com/ben/testing-morehttpsopenaicomindexthe-state-of-enterprise-ai-2025-report-4fm9](https://dev.to/ben/testing-48g0)
-- [testing more
-
-https://openai.com/index/the-state-of-enterprise-ai-2025-report/](https://dev.to/ben/testing-morehttpsopenaicomindexthe-state-of-enterprise-ai-2025-report-4fm9)
-- [Test
-
-https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-4f7d)
 <!-- BLOG-POST-LIST:END -->
