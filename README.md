@@ -17,12 +17,10 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
+- [Meme Monday](https://dev.to/ben/meme-monday-2a0o)
 - [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
 - [Testing 
 
 https://nfl.com](https://dev.to/ben/testing-httpsnflcom-5fdd)
-- [Testing!
-
-https://google.com](https://dev.to/ben/testinghttpsgooglecom-1nkl)
-- [Very well done!](https://dev.to/ben/very-well-done-3dkl)
 <!-- BLOG-POST-LIST:END -->
