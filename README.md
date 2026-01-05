@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-1b7d)
 - [Meme Monday](https://dev.to/ben/meme-monday-4djh)
 - [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
 - [Meme Monday](https://dev.to/ben/meme-monday-2a0o)
-- [You can now embed Cloud Run deployments directly in your DEV posts!](https://dev.to/devteam/you-can-now-embed-cloud-run-deployments-directly-in-your-dev-posts-1jk8)
 <!-- BLOG-POST-LIST:END -->
