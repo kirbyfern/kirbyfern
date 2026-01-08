@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [When is a side project worth committing to?](https://dev.to/ben/when-is-a-side-project-worth-committing-to-5ec7)
 - [Meme Monday](https://dev.to/ben/meme-monday-1b7d)
 - [Meme Monday](https://dev.to/ben/meme-monday-4djh)
 - [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
-- [Meme Monday](https://dev.to/ben/meme-monday-2a0o)
 <!-- BLOG-POST-LIST:END -->
