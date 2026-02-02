@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-42aj)
 - [Meme Monday](https://dev.to/ben/meme-monday-dhl)
 - [Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community](https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j)
 - [Meme Monday](https://dev.to/ben/meme-monday-dcl)
-- [Meme Monday](https://dev.to/ben/meme-monday-2if1)
 <!-- BLOG-POST-LIST:END -->
