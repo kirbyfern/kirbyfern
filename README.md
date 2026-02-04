@@ -17,6 +17,7 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [New profile pic](https://dev.to/ben/new-profile-pic-1eb)
 - [Such a great tool
 
 https://github.com/kamranahmedse/git-standup](https://dev.to/ben/such-a-great-toolhttpsgithubcomkamranahmedsegit-standup-577c)
@@ -24,5 +25,4 @@ https://github.com/kamranahmedse/git-standup](https://dev.to/ben/such-a-great-to
 
 I just wasn&#39;t thinking that hard about the situation. As soon as I clicked my brain on I thought to check.](https://dev.to/ben/i-just-spent-an-hour-restarting-github-actions-over-and-over-before-checking-github-status-to-see-2nap)
 - [Meme Monday](https://dev.to/ben/meme-monday-42aj)
-- [Meme Monday](https://dev.to/ben/meme-monday-dhl)
 <!-- BLOG-POST-LIST:END -->
