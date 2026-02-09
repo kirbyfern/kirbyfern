@@ -17,10 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [GitHub down 😭](https://dev.to/ben/github-down-194f)
 - [Meme Monday](https://dev.to/ben/meme-monday-1i4i)
 - [Heroku is going into maintenance mode](https://dev.to/ben/heroku-is-going-into-maintenance-mode-m3f)
 - [New profile pic](https://dev.to/ben/new-profile-pic-1eb)
-- [Such a great tool
-
-https://github.com/kamranahmedse/git-standup](https://dev.to/ben/such-a-great-toolhttpsgithubcomkamranahmedsegit-standup-577c)
 <!-- BLOG-POST-LIST:END -->
