@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-k5h)
 - [A New Chapter: DEV is Joining Forces with Major League Hacking &lpar;MLH&rpar;](https://dev.to/devteam/a-new-chapter-dev-is-joining-forces-with-major-league-hacking-mlh-3kfd)
 - [Meme Monday](https://dev.to/ben/meme-monday-44jk)
 - [GitHub down 😭](https://dev.to/ben/github-down-194f)
-- [Meme Monday](https://dev.to/ben/meme-monday-1i4i)
 <!-- BLOG-POST-LIST:END -->
