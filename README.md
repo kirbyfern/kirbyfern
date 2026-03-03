@@ -17,12 +17,10 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What do you think about building when AI models get cheaper?](https://dev.to/ben/what-do-you-think-about-building-when-ai-models-get-cheaper-24d1)
 - [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk)
 - [We had a big team offsite and I forgot meme monday yesterday 😭
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3)
 - [OpenAI just raised $110 billion. Wow](https://dev.to/ben/openai-just-raised-110-billion-wow-5fci)
-- [Openclaw posting peaks on weekends
-
-https://www.linkedin.com/posts/theycallmeswift_agenticcoding-developers-hackathons-activity-7432132942572806144-rPsR](https://dev.to/ben/openclaw-posting-peaks-on-weekends-31ac)
 <!-- BLOG-POST-LIST:END -->
