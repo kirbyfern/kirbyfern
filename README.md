@@ -17,6 +17,7 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk)
 - [We had a big team offsite and I forgot meme monday yesterday 😭
 
 But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-forgot-meme-monday-yesterday-but-here-is-another-post-20j3)
@@ -24,5 +25,4 @@ But here is another post](https://dev.to/ben/we-had-a-big-team-offsite-and-i-for
 - [Openclaw posting peaks on weekends
 
 https://www.linkedin.com/posts/theycallmeswift_agenticcoding-developers-hackathons-activity-7432132942572806144-rPsR](https://dev.to/ben/openclaw-posting-peaks-on-weekends-31ac)
-- [Meme Monday](https://dev.to/ben/meme-monday-k5h)
 <!-- BLOG-POST-LIST:END -->
