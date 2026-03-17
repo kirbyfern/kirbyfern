@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4)
 - [Happy Monday 😀](https://dev.to/ben/happy-monday-1812)
 - [Meme Monday](https://dev.to/ben/meme-monday-cc9)
 - [Meme Monday](https://dev.to/ben/meme-monday-2676)
-- [Are you more of a CLI person or a GUI person](https://dev.to/ben/are-you-more-of-a-cli-person-or-a-gui-person-37n5)
 <!-- BLOG-POST-LIST:END -->
