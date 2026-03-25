@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4)
 - [Meme Monday](https://dev.to/ben/meme-monday-1bec)
 - [My AI agent messed up a UTC time conversion algorithm after I *specifically told it* to make no mistakes. smh](https://dev.to/ben/my-ai-agent-messed-up-a-utc-time-conversion-algorithm-after-i-specifically-told-it-to-make-no-46k7)
 - [What&#39;s in your headphones when you code? 🎧](https://dev.to/ben/whats-in-your-headphones-when-you-code-51i4)
-- [Happy Monday 😀](https://dev.to/ben/happy-monday-1812)
 <!-- BLOG-POST-LIST:END -->
