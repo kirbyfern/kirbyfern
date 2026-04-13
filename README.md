@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2kee)
 - [Meme Monday](https://dev.to/ben/meme-monday-3lh9)
 - [Big performance upgrade in DEV/Forem tag queries shipped yesterday. Breath of fresh air 🙂](https://dev.to/ben/big-performance-upgrade-in-devforem-tag-queries-shipped-yesterday-breath-of-fresh-air-2pp0)
 - [I&#39;m such a slow typer](https://dev.to/ben/im-such-a-slow-typer-361f)
-- [Meme Monday](https://dev.to/ben/meme-monday-o5i)
 <!-- BLOG-POST-LIST:END -->
