@@ -17,10 +17,10 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Same for me at the moment](https://dev.to/ben/same-for-me-at-the-moment-1c2j)
 - [https://github.blog/news-insights/company-news/an-update-on-github-availability/](https://dev.to/ben/httpsgithubblognews-insightscompany-newsan-update-on-github-availability-1p2m)
 - [Meme Monday](https://dev.to/ben/meme-monday-98e)
 - [This is pretty exciting!
 
 https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl)
-- [Meme Monday](https://dev.to/ben/meme-monday-5ee)
 <!-- BLOG-POST-LIST:END -->
