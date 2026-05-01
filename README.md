@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [me_irl](https://dev.to/ben/meirl-5g6i)
 - [My LLM assistant&#39;s new buzzword is starting responses with &quot;be completely candid&quot;. Very grating.](https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df)
 - [Same for me at the moment](https://dev.to/ben/same-for-me-at-the-moment-1c2j)
 - [https://github.blog/news-insights/company-news/an-update-on-github-availability/](https://dev.to/ben/httpsgithubblognews-insightscompany-newsan-update-on-github-availability-1p2m)
-- [Meme Monday](https://dev.to/ben/meme-monday-98e)
 <!-- BLOG-POST-LIST:END -->
