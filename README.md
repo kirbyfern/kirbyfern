@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-47g6)
 - [Meme Monday](https://dev.to/ben/meme-monday-55e2)
 - [Meme Monday](https://dev.to/ben/meme-monday-1lm6)
 - [me_irl](https://dev.to/ben/meirl-5g6i)
-- [My LLM assistant&#39;s new buzzword is starting responses with &quot;be completely candid&quot;. Very grating.](https://dev.to/ben/my-llm-assistants-new-buzzword-is-starting-responses-with-be-completely-candid-very-grating-11df)
 <!-- BLOG-POST-LIST:END -->
