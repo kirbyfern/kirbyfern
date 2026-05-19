@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Definitely looking forward to using Antigravity 2.0](https://dev.to/ben/definitely-looking-forward-to-using-antigravity-20-6ob)
 - [Meme Monday](https://dev.to/ben/meme-monday-47g6)
 - [Meme Monday](https://dev.to/ben/meme-monday-55e2)
 - [Meme Monday](https://dev.to/ben/meme-monday-1lm6)
-- [me_irl](https://dev.to/ben/meirl-5g6i)
 <!-- BLOG-POST-LIST:END -->
