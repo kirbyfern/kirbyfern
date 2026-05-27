@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [This is great, taking an oldie-but-goodie and rethinking it](https://dev.to/ben/this-is-great-taking-an-oldie-but-goodie-and-rethinking-it-4cgl)
 - [Meme Monday](https://dev.to/ben/meme-monday-194f)
 - [How we&#39;re using Gemini Embeddings to build a smarter, community-driven feed on DEV](https://dev.to/devteam/how-were-using-gemini-embeddings-to-build-a-smarter-community-driven-feed-on-dev-1b9f)
 - [Pretty normal](https://dev.to/ben/pretty-normal-1893)
-- [Definitely looking forward to using Antigravity 2.0](https://dev.to/ben/definitely-looking-forward-to-using-antigravity-20-6ob)
 <!-- BLOG-POST-LIST:END -->
