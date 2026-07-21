@@ -17,12 +17,12 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [New Gemini models dropped
+
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/](https://dev.to/ben/new-gemini-models-dropped-59l8)
 - [Context Is King: Rethinking Domain Ownership, Product, and the &quot;Spec Phase&quot;](https://dev.to/ben/context-is-king-rethinking-domain-ownership-product-and-the-spec-phase-gp8)
 - [Meme Monday](https://dev.to/ben/meme-monday-4eld)
 - [This is remarkable
 
 https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0)
-- [HTTP gets a QUERY method so complex searches can stop pretending to be POST
-
-https://www.theregister.com/devops/2026/07/13/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post/5270192](https://dev.to/ben/http-gets-a-query-method-so-complex-searches-can-stop-pretending-to-be-post-j28)
 <!-- BLOG-POST-LIST:END -->
