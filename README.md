@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-1abg)
 - [It&#39;s always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi)
 - [Meme Monday](https://dev.to/ben/meme-monday-3n1d)
 - [Meme Monday](https://dev.to/ben/meme-monday-52p7)
-- [Meme Monday](https://dev.to/ben/meme-monday-mm5)
 <!-- BLOG-POST-LIST:END -->
