@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Introducing AI Disclosure on DEV: Tools for Nuance, Clarity, and Better Feeds](https://dev.to/devteam/introducing-ai-disclosure-on-dev-tools-for-nuance-clarity-and-better-feeds-34mk)
 - [Meme Monday](https://dev.to/ben/meme-monday-385f)
 - [Meme Monday](https://dev.to/ben/meme-monday-1abg)
 - [It&#39;s always Doom https://ood.dev/posts/doom/](https://dev.to/ben/its-always-doom-httpsooddevpostsdoom-4fpi)
-- [Meme Monday](https://dev.to/ben/meme-monday-3n1d)
 <!-- BLOG-POST-LIST:END -->
