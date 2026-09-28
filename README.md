@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-2com)
 - [Meme Monday](https://dev.to/ben/meme-monday-6km)
 - [Meme Monday](https://dev.to/ben/meme-monday-38bf)
 - [No Meme Monday](https://dev.to/ben/no-meme-monday-56l5)
-- [💎 Introducing Community Gems: Celebrating Human Curation and the Best of Our Community](https://dev.to/devteam/introducing-community-gems-celebrating-human-curation-and-the-best-of-our-community-58c8)
 <!-- BLOG-POST-LIST:END -->
