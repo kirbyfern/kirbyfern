@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Meme Monday](https://dev.to/ben/meme-monday-18k)
 - [Meme Monday](https://dev.to/ben/meme-monday-2hle)
 - [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h)
 - [AI Engineering Has Entered Its Audit Era](https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl)
-- [Meme Monday](https://dev.to/ben/meme-monday-4e47)
 <!-- BLOG-POST-LIST:END -->
