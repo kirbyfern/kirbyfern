@@ -17,8 +17,8 @@
 
 ### Random Blog Posts from (dev.to):
 <!-- BLOG-POST-LIST:START -->
+- [Thank you to everyone who pointed out the phishing posts we got yesterday. We&#39;re working on improved mechanisms to automatically reject those types of attacks.](https://dev.to/ben/thank-you-to-everyone-who-pointed-out-the-phishing-posts-we-got-yesterday-were-working-on-1h9b)
 - [Meme Monday](https://dev.to/ben/meme-monday-18k)
 - [Meme Monday](https://dev.to/ben/meme-monday-2hle)
 - [Design for Churn](https://dev.to/dailycontext/design-for-churn-5c6h)
-- [AI Engineering Has Entered Its Audit Era](https://dev.to/dailycontext/ai-engineering-has-entered-its-audit-era-56fl)
 <!-- BLOG-POST-LIST:END -->
